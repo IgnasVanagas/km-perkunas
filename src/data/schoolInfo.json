@@ -1,0 +1,112 @@
+{
+  "name": "Krepšinio mokykla „Perkūnas“",
+  "shortName": "KM Perkūnas",
+  "slogan": "Prisijunk prie KM „Perkūnas“ – juk nori daug žaisti!",
+  "founded": 2000,
+  "studentsCount": "450+",
+  "gymsCount": "13",
+  "coachesCount": "10",
+  "championships": "MKL Čempionai",
+  "logo": "https://www.kmperkunas.lt/wp-content/uploads/2016/08/Liutas-logo-spalvotas2-be-ploto-height140.png",
+  "headerBg": "https://www.kmperkunas.lt/wp-content/uploads/2025/08/Untitled-design.jpg",
+  "youtubeVideoId": "0DTLNCex3dY",
+  "support": {
+    "title": "1,2% GPM Parama krepšinio mokyklai „Perkūnas“",
+    "code": "300053618",
+    "name": "KM „Perkūnas“",
+    "taxYear": "2025 / 2026",
+    "deadline": "Gegužės 4 d.",
+    "edsUrl": "https://deklaravimas.vmi.lt"
+  },
+  "contacts": {
+    "phone": "+370 698 14300",
+    "email": "kmperkunas@gmail.com",
+    "address": "V. Krėvės pr. 53-213, Kaunas",
+    "hours": "I–V 10:00 – 18:00 val.",
+    "admin": [
+      {
+        "role": "Direktorius",
+        "name": "Rimas Navickas",
+        "phones": [
+          "+370 698 14300",
+          "+370 684 38738"
+        ],
+        "email": "navickasrimas@gmail.com",
+        "photo": "https://www.kmperkunas.lt/wp-content/uploads/2014/09/rimas03-5x4-240x300.jpg"
+      },
+      {
+        "role": "Vyr. sekretorė",
+        "name": "Renata Mikalskienė",
+        "phones": [
+          "+370 698 14300"
+        ],
+        "email": "kmperkunas@gmail.com",
+        "photo": "https://www.kmperkunas.lt/wp-content/uploads/2014/01/renata-2015-240x300.jpg"
+      },
+      {
+        "role": "Buhalterė",
+        "name": "Dovilė Balasevičienė",
+        "phones": [
+          "+370 684 38738"
+        ],
+        "email": "kkml.buhalterija@gmail.com",
+        "photo": "https://www.kmperkunas.lt/wp-content/uploads/2014/01/dovile-2015-240x300.jpg"
+      }
+    ]
+  },
+  "pillars": [
+    {
+      "title": "Svarbus kiekvienas vaikas",
+      "desc": "Į mokyklą priimami visi norintys išmokti ar jau mokantys žaisti krepšinį vaikai nuo 5 iki 18 metų amžiaus, nepriklausomai nuo fizinių duomenų ar patirties."
+    },
+    {
+      "title": "Net 13 treniruočių centrų",
+      "desc": "Treniruotės vyksta patogiai pasiekiamose Kauno mokyklų salėse įvairiuose mikrorajonuose: Dainavoje, Šilainiuose, Centre, Žaliakalnyje, Aleksote, Kalniečiuose."
+    },
+    {
+      "title": "Daug turnyrų ir rungtynių",
+      "desc": "Dėmesys skiriamas ne tik pagrindinėms rinktinėms, bet ir antrosioms ar trečiosioms komandoms, tad kiekvienam vaikui garantuotas realus žaidybinis laikas."
+    },
+    {
+      "title": "Žais aukščiausiame lygyje",
+      "desc": "„Perkūno“ rinktinės nuolat kaunasi Lietuvos moksleivių krepšinio lygos (MKL) A diviziono finalo ketvertuose ir iškovoja medalių komplektus."
+    },
+    {
+      "title": "Talentai Lietuvos rinktinėse",
+      "desc": "Kasmet talentingiausi auklėtiniai kviečiami į Lietuvos U16, U18 ir jaunimo rinktines (A. Sidarevičius, T. Baltrušaitis, G. Čelka, H. Alekna ir kt.)."
+    },
+    {
+      "title": "Bendradarbiavimas su „Žalgiriu“",
+      "desc": "Nuo 2018 m. glaudžiai bendradarbiaujame su Kauno „Žalgirio“ klubu, suteikdami perspektyviausiems auklėtiniams tiesų kelią į profesionalųjį krepšinį."
+    }
+  ],
+  "teamsList": [
+    "KM Perkūnas 2006",
+    "KM Perkūnas 2006-2",
+    "KM Perkūnas 2007-Vytrita",
+    "KM Perkūnas 2007-2",
+    "KM Perkūnas 2008",
+    "KM Perkūnas 2009",
+    "KM Perkūnas 2010",
+    "KM Perkūnas 2011",
+    "KM Perkūnas 2011-2",
+    "KM Perkūnas 2012",
+    "KM Perkūnas 2013",
+    "KM Perkūnas 2014",
+    "KM Perkūnas 2015"
+  ],
+  "tournaments": [
+    {
+      "name": "Perkūniukų taurė 2023",
+      "desc": "Tradicinis tarptautinis vaikų krepšinio turnyras Kaune"
+    },
+    {
+      "name": "Perkūniukų taurė 2022",
+      "desc": "Virš 20 komandų iš visos Lietuvos ir kaimyninių šalių"
+    },
+    {
+      "name": "Perkūniukų taurė 2020",
+      "desc": "Jubiliejinis krepšinio mokyklos 20-mečio turnyras"
+    }
+  ]
+}

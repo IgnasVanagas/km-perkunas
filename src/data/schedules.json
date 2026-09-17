@@ -1,0 +1,289 @@
+[
+  {
+    "year": "2008 m.",
+    "badge": "U18 / Vyresnieji",
+    "groups": [
+      {
+        "title": "KM „Perkūnas“ 2008 rinktinė",
+        "coach": "Tadas Lukauskas",
+        "phone": "+370 684 76734",
+        "slots": [
+          {
+            "day": "Antradienis",
+            "time": "16:00 - 17:30",
+            "gym": "„Saulės“ gimnazija (Savanorių pr. 46)"
+          },
+          {
+            "day": "Ketvirtadienis",
+            "time": "16:00 - 17:30",
+            "gym": "Žaliakalnio progimnazija (Širvintų g. 15)"
+          },
+          {
+            "day": "Penktadienis",
+            "time": "16:00 - 17:30",
+            "gym": "„Saulės“ gimnazija (Savanorių pr. 46)"
+          },
+          {
+            "day": "Šeštadienis",
+            "time": "09:00 - 10:30",
+            "gym": "„Saulės“ gimnazija (Savanorių pr. 46)"
+          }
+        ]
+      },
+      {
+        "title": "V. Adamkaus gimnazijos grupė",
+        "coach": "Dovydas Nemeikša",
+        "phone": "+370 616 71764",
+        "slots": [
+          {
+            "day": "Antradienis",
+            "time": "19:00 - 20:15",
+            "gym": "V. Adamkaus gimnazija (Bitininkų g. 31)"
+          },
+          {
+            "day": "Ketvirtadienis",
+            "time": "18:30 - 20:00",
+            "gym": "V. Adamkaus gimnazija (Bitininkų g. 31)"
+          },
+          {
+            "day": "Penktadienis",
+            "time": "17:30 - 18:30",
+            "gym": "V. Adamkaus gimnazija (Bitininkų g. 31)"
+          }
+        ]
+      },
+      {
+        "title": "B. Brazdžionio mokyklos grupė",
+        "coach": "Vytautas Žvirblis",
+        "phone": "+370 621 80316",
+        "slots": [
+          {
+            "day": "Pirmadienis",
+            "time": "17:30 - 19:00",
+            "gym": "B. Brazdžionio mokykla (Partizanų g. 22)"
+          },
+          {
+            "day": "Antradienis",
+            "time": "17:45 - 19:00",
+            "gym": "B. Brazdžionio mokykla (Partizanų g. 22)"
+          },
+          {
+            "day": "Ketvirtadienis",
+            "time": "18:15 - 19:30",
+            "gym": "B. Brazdžionio mokykla (Partizanų g. 22)"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "year": "2009 m.",
+    "badge": "U17 / Jauniai",
+    "groups": [
+      {
+        "title": "KM „Perkūnas“ 2009 rinktinė",
+        "coach": "Tadas Lukauskas",
+        "phone": "+370 684 76734",
+        "slots": [
+          {
+            "day": "Antradienis",
+            "time": "17:30 - 19:00",
+            "gym": "„Saulės“ gimnazija (Savanorių pr. 46)"
+          },
+          {
+            "day": "Ketvirtadienis",
+            "time": "17:30 - 19:00",
+            "gym": "Žaliakalnio progimnazija (Širvintų g. 15)"
+          },
+          {
+            "day": "Penktadienis",
+            "time": "17:30 - 19:00",
+            "gym": "„Saulės“ gimnazija (Savanorių pr. 46)"
+          },
+          {
+            "day": "Šeštadienis",
+            "time": "10:30 - 12:00",
+            "gym": "„Saulės“ gimnazija (Savanorių pr. 46)"
+          }
+        ]
+      },
+      {
+        "title": "V. Adamkaus gimnazijos grupė",
+        "coach": "Dovydas Nemeikša",
+        "phone": "+370 616 71764",
+        "slots": [
+          {
+            "day": "Antradienis",
+            "time": "18:45 - 20:00",
+            "gym": "V. Adamkaus gimnazija (Bitininkų g. 31)"
+          },
+          {
+            "day": "Ketvirtadienis",
+            "time": "18:45 - 20:00",
+            "gym": "V. Adamkaus gimnazija (Bitininkų g. 31)"
+          },
+          {
+            "day": "Penktadienis",
+            "time": "17:00 - 18:00",
+            "gym": "V. Adamkaus gimnazija (Bitininkų g. 31)"
+          }
+        ]
+      },
+      {
+        "title": "Kauno Tarptautinė gimnazija",
+        "coach": "Tadas Lukauskas",
+        "phone": "+370 684 76734",
+        "slots": [
+          {
+            "day": "Pirmadienis",
+            "time": "15:00 - 16:15",
+            "gym": "Tarptautinė gimnazija (Vytauto pr. 50)"
+          },
+          {
+            "day": "Trečiadienis",
+            "time": "15:00 - 16:15",
+            "gym": "Tarptautinė gimnazija (Vytauto pr. 50)"
+          },
+          {
+            "day": "Ketvirtadienis",
+            "time": "15:00 - 16:15",
+            "gym": "Tarptautinė gimnazija (Vytauto pr. 50)"
+          }
+        ]
+      },
+      {
+        "title": "Petrašiūnų progimnazijos grupė",
+        "coach": "Vytautas Žvirblis",
+        "phone": "+370 621 80316",
+        "slots": [
+          {
+            "day": "Pirmadienis",
+            "time": "14:30 - 16:30",
+            "gym": "Petrašiūnų progimnazija (M. Gimbutienės g. 9)"
+          },
+          {
+            "day": "Trečiadienis",
+            "time": "14:00 - 16:30",
+            "gym": "Petrašiūnų progimnazija (M. Gimbutienės g. 9)"
+          },
+          {
+            "day": "Penktadienis",
+            "time": "14:30 - 16:30",
+            "gym": "Petrašiūnų progimnazija (M. Gimbutienės g. 9)"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "year": "2010 m.",
+    "badge": "U16 / Jaunučiai",
+    "groups": [
+      {
+        "title": "KM „Perkūnas“ 2010 rinktinė",
+        "coach": "Julius Venckevičius",
+        "phone": "+370 608 36664",
+        "slots": [
+          {
+            "day": "Pirmadienis",
+            "time": "16:30 - 17:30",
+            "gym": "„Saulės“ gimnazija (Savanorių pr. 46)"
+          },
+          {
+            "day": "Antradienis",
+            "time": "19:00 - 20:30",
+            "gym": "B. Brazdžionio mokykla (Partizanų g. 22)"
+          },
+          {
+            "day": "Ketvirtadienis",
+            "time": "17:30 - 19:00",
+            "gym": "„Saulės“ gimnazija (Savanorių pr. 46)"
+          },
+          {
+            "day": "Šeštadienis",
+            "time": "11:00 - 12:30",
+            "gym": "Tarptautinė gimnazija (Krėvės pr. 50)"
+          }
+        ]
+      },
+      {
+        "title": "B. Brazdžionio mokyklos grupė",
+        "coach": "Vytautas Žvirblis",
+        "phone": "+370 621 80316",
+        "slots": [
+          {
+            "day": "Pirmadienis",
+            "time": "17:30 - 19:00",
+            "gym": "B. Brazdžionio mokykla (Partizanų g. 22)"
+          },
+          {
+            "day": "Antradienis",
+            "time": "17:45 - 19:00",
+            "gym": "B. Brazdžionio mokykla (Partizanų g. 22)"
+          },
+          {
+            "day": "Ketvirtadienis",
+            "time": "18:15 - 19:30",
+            "gym": "B. Brazdžionio mokykla (Partizanų g. 22)"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "year": "2011 m.",
+    "badge": "U15 / Jaunučiai",
+    "groups": [
+      {
+        "title": "KM „Perkūnas“ 2011 rinktinė",
+        "coach": "Lukas Šimkus",
+        "phone": "+370 648 94542",
+        "slots": [
+          {
+            "day": "Pirmadienis",
+            "time": "17:30 - 19:00",
+            "gym": "KTU sporto salė (Radvilėnų pl. 19)"
+          },
+          {
+            "day": "Trečiadienis",
+            "time": "17:30 - 19:00",
+            "gym": "KTU sporto salė (Radvilėnų pl. 19)"
+          },
+          {
+            "day": "Šeštadienis",
+            "time": "12:30 - 14:00",
+            "gym": "„Saulės“ gimnazija (Savanorių pr. 46)"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "year": "2012–2015 m.",
+    "badge": "U11 - U14 / Pradedantieji",
+    "groups": [
+      {
+        "title": "Jauniausiųjų „Perkūniukų“ grupės (gim. 2012–2015 m.)",
+        "coach": "Modestas Bižys / Rėjus Pumputis",
+        "phone": "+370 621 90270",
+        "slots": [
+          {
+            "day": "Pirmadienis",
+            "time": "16:00 - 17:15",
+            "gym": "Prano Mašioto pradinė mokykla (Rasytės g. 1)"
+          },
+          {
+            "day": "Trečiadienis",
+            "time": "16:00 - 17:15",
+            "gym": "Prano Mašioto pradinė mokykla (Rasytės g. 1)"
+          },
+          {
+            "day": "Penktadienis",
+            "time": "16:00 - 17:15",
+            "gym": "Jono Basanavičiaus gimnazija (Šarkuvos g. 28)"
+          }
+        ]
+      }
+    ]
+  }
+]

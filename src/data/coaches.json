@@ -1,0 +1,410 @@
+[
+  {
+    "id": "modestas-bizys",
+    "name": "Modestas Bižys",
+    "role": "Vyriausiasis treneris",
+    "teamsSummary": "KM Perkūnas 2006, 2006-2, 2015",
+    "phone": "+370 621 90270",
+    "email": "mode5@inbox.lt",
+    "photo": "https://www.kmperkunas.lt/wp-content/uploads/2011/01/treneliumbai-9.png",
+    "bio": "Ilgametis KM „Perkūnas“ vyriausiasis treneris, dirbantis mokykloje nuo 2008 metų. Baigęs LKKA, nuolat tobulinasi tarptautiniuose trenerių seminaruose.",
+    "interview": {
+      "birthplace": "Marijampolė (1987 m.)",
+      "startedBasketball": "Nuo 5 metų Marijampolėje pas Gintautą Žibūdą.",
+      "coachingSince": "2008 m. rugsėjo 01 d., baigęs LKKA.",
+      "philosophy": "Skiriu didžiausią dėmesį į gynybą – be gynybos nebus pergalių. Taip pat ugdau žaidėją kaip asmenybę, skiriu daug dėmesio technikai ir disciplinai.",
+      "adviceToPlayers": "Kova ir viso savęs atidavimas aikštelėje iki paskutinės sekundės.",
+      "favoriteMoments": "Kieta kova, emocijos, draugiškumas ir auklėtinių tobulėjimas.",
+      "favoriteClub": "Kauno „Žalgiris“, „Barcelona“, Los Angeles „Lakers“",
+      "favoritePlayer": "Linas Kleiza, Ricky Rubio, Dwyane Wade"
+    },
+    "coachedTeamsList": [
+      {
+        "name": "KM Perkūnas 2006",
+        "slug": "km-perkunas-2006"
+      },
+      {
+        "name": "KM Perkūnas 2006-2",
+        "slug": "km-perkunas-2006-2"
+      },
+      {
+        "name": "KM Perkūnas 2015",
+        "slug": "km-perkunas-2015"
+      }
+    ],
+    "gallery": [
+      {
+        "src": "https://www.kmperkunas.lt/wp-content/uploads/2014/01/DSC_7603.jpg",
+        "alt": "Modestas Bižys ir „Perkūno“ 2006 komanda"
+      },
+      {
+        "src": "https://www.kmperkunas.lt/wp-content/uploads/2014/01/161.jpg",
+        "alt": "Puiki nuotaika stovykloje Dauguose (2016)"
+      },
+      {
+        "src": "https://www.kmperkunas.lt/wp-content/uploads/2014/01/DSC_7053.jpg",
+        "alt": "Modestas Bižys („Tornado“ Christmas Cup 2017)"
+      },
+      {
+        "src": "https://www.kmperkunas.lt/wp-content/uploads/2014/01/DSC_8416-Copy.jpg",
+        "alt": "Modestas Bižys laiko KKML 2004 m. grupės čempionų taurę (2015)"
+      },
+      {
+        "src": "https://www.kmperkunas.lt/wp-content/uploads/2014/01/0611.jpg",
+        "alt": "Treneris su savo auklėtiniu Martynu MEGOS mugėje"
+      },
+      {
+        "src": "https://www.kmperkunas.lt/wp-content/uploads/2014/01/132.jpg",
+        "alt": "Minutės pertraukėlės metu&#8230;"
+      },
+      {
+        "src": "https://www.kmperkunas.lt/wp-content/uploads/2014/01/103.jpg",
+        "alt": "Modesto Bižio nurodymai prieš žengiant į aikštę"
+      }
+    ]
+  },
+  {
+    "id": "tadas-lukauskas",
+    "name": "Tadas Lukauskas",
+    "role": "Rinktinių vyriausiasis treneris",
+    "teamsSummary": "KM Perkūnas 2007-Vytrita, 2008, 2009",
+    "phone": "+370 684 76734",
+    "email": "lukauskas4@gmail.com",
+    "photo": "https://www.kmperkunas.lt/wp-content/uploads/2014/01/Lukauskas-Tadas-2019-apvalus-375x375.png",
+    "bio": "Vienas sėkmingiausių „Perkūno“ rinktinių trenerių, paruošęs gausybę MKL A diviziono finalininkų bei jaunimo rinktinių žaidėjų.",
+    "interview": {
+      "birthplace": "Kaunas",
+      "startedBasketball": "Krepšiniu susidomėjau kai tik pamačiau. Buvau labai mažas.",
+      "coachingSince": "Ilgametis KM „Perkūnas“ treneris.",
+      "philosophy": "Be gynybos nebus ir puolimo. Krepšinis žavi tuo, kad be bendradarbiavimo rungtyniaujant – pergalių nebus.",
+      "adviceToPlayers": "Svarbiausia – kovoti iki pat rungtynių pabaigos.",
+      "favoriteMoments": "Pergalės sunkiu komandiniu darbu ir auklėtinių proveržis.",
+      "favoriteClub": "Kauno „Žalgiris“",
+      "favoritePlayer": "Arvydas Sabonis, Šarūnas Jasikevičius"
+    },
+    "coachedTeamsList": [
+      {
+        "name": "KM Perkūnas 2007-Vytrita",
+        "slug": "km-perkunas-2007"
+      },
+      {
+        "name": "KM Perkūnas 2008",
+        "slug": "km-perkunas-2008"
+      },
+      {
+        "name": "KM Perkūnas 2009",
+        "slug": "km-perkunas-2009"
+      }
+    ],
+    "gallery": [
+      {
+        "src": "https://www.kmperkunas.lt/wp-content/uploads/2017/08/DSC_0744.jpg",
+        "alt": "Tadas Lukauskas kartu su Roku Tumpa ir Martynu Gailiūnu (Daugai 2018)"
+      },
+      {
+        "src": "https://www.kmperkunas.lt/wp-content/uploads/2017/08/DSC_4935.jpg",
+        "alt": "Tadas Lukauskas (MKL U18 B div. Finalas 2018)"
+      },
+      {
+        "src": "https://www.kmperkunas.lt/wp-content/uploads/2017/08/DSC_7579.jpg",
+        "alt": "Tadas Lukauskas ir Ignas Dirda „Perkūno“ 2000 išleistuvėse (2018)"
+      },
+      {
+        "src": "https://www.kmperkunas.lt/wp-content/uploads/2017/08/DSC_8588.jpg",
+        "alt": "Tadas Lukauskas (2017)"
+      },
+      {
+        "src": "https://www.kmperkunas.lt/wp-content/uploads/2017/08/KM-Perkunas-2008-2018-Daugai.jpg",
+        "alt": "„Perkūnas“ 2008 (Daugai 2018)"
+      },
+      {
+        "src": "https://www.kmperkunas.lt/wp-content/uploads/2017/08/DSC_4307900.jpg",
+        "alt": ""
+      }
+    ]
+  },
+  {
+    "id": "zvirblis-vytautas",
+    "name": "Vytautas Žvirblis",
+    "role": "Treneris",
+    "teamsSummary": "KM Perkūnas 2007-2, B. Brazdžionio m-kla",
+    "phone": "+370 621 80316",
+    "email": "zvirblis77@gmail.com",
+    "photo": "https://www.kmperkunas.lt/wp-content/uploads/2016/09/Zvirblis-Vytautas-2021-300x300.png",
+    "bio": "Entuziastingas krepšinio specialistas, atsakingas už B. Brazdžionio mokyklos ir Petrašiūnų progimnazijos treniruočių centrus.",
+    "interview": {
+      "birthplace": "Kaunas (1989 m.)",
+      "startedBasketball": "Nesusidomėjau, o įsimylėjau jį nuo pat mažens.",
+      "coachingSince": "Daugiau nei dešimtmetis KM „Perkūnas“ mokykloje.",
+      "philosophy": "Krepšinį žaisti lengva, bet gerai žaisti – sunku. Kiekvienos varžybos – lyg paskutinės.",
+      "adviceToPlayers": "Atkaklumas, pastangos ir pagarba komandos draugams.",
+      "favoriteMoments": "Pergalės ir vaikų džiaugsmas po sunkių rungtynių.",
+      "favoriteClub": "Kauno „Žalgiris“, Golden State „Warriors“",
+      "favoritePlayer": "Šarūnas Jasikevičius, Dirk Nowitzki, Michael Jordan"
+    },
+    "coachedTeamsList": [
+      {
+        "name": "KM Perkūnas 2007-2",
+        "slug": "km-perkunas-2007-2"
+      }
+    ],
+    "gallery": [
+      {
+        "src": "https://www.kmperkunas.lt/wp-content/uploads/2018/08/DSC_6781.jpg",
+        "alt": "Vytautas Žvirblis (MKL U17 Final4. 2018)"
+      },
+      {
+        "src": "https://www.kmperkunas.lt/wp-content/uploads/2018/08/DSC_8680.jpg",
+        "alt": "Vytautas Žvirblis (Perkūno mažiukų turnyras 2018)"
+      },
+      {
+        "src": "https://www.kmperkunas.lt/wp-content/uploads/2018/08/DSC_6302.jpg",
+        "alt": "Vytautas Žvirblis (MKL U17 Final4. 2018)"
+      },
+      {
+        "src": "https://www.kmperkunas.lt/wp-content/uploads/2018/08/DSC_8670.jpg",
+        "alt": "Vytautas Žvirblis (Perkūno mažiukų turnyras 2018)"
+      },
+      {
+        "src": "https://www.kmperkunas.lt/wp-content/uploads/2018/08/DSC_0292.jpg",
+        "alt": "Vytautas Žvirblis (RKL. 2017)"
+      },
+      {
+        "src": "https://www.kmperkunas.lt/wp-content/uploads/2018/08/DSC_6388.jpg",
+        "alt": "Vytautas Žvirblis (MKL U17 Final4. 2018)"
+      }
+    ]
+  },
+  {
+    "id": "dovydas-nemeiksa",
+    "name": "Dovydas Nemeikša",
+    "role": "Treneris",
+    "teamsSummary": "KM Perkūnas 2012, V. Adamkaus gimnazija",
+    "phone": "+370 616 71764",
+    "email": "dovydas.nemeiksa1@gmail.com",
+    "photo": "https://www.kmperkunas.lt/wp-content/uploads/2018/08/treneliumbai-11.png",
+    "bio": "Treneris, ugdantis vaikus V. Adamkaus gimnazijoje, diegiantis kovingumą, discipliną ir meilę krepšiniui.",
+    "interview": {
+      "birthplace": "Kaunas",
+      "startedBasketball": "Krepšinis mano gyvenime nuo ankstyvos vaikystės.",
+      "coachingSince": "KM „Perkūnas“ trenerių štabo narys.",
+      "philosophy": "Disciplina, pasitikėjimas savimi ir komandinis darbas aikštelėje.",
+      "adviceToPlayers": "Niekada nepasiduoti, nesvarbu koks rezultatas švieslentėje.",
+      "favoriteMoments": "Auklėtinių džiaugsmas išmokus naują elementą ir komandinė dvasia.",
+      "favoriteClub": "Kauno „Žalgiris“",
+      "favoritePlayer": "Šarūnas Jasikevičius"
+    },
+    "coachedTeamsList": [
+      {
+        "name": "KM Perkūnas 2012",
+        "slug": "km-perkunas-2012"
+      }
+    ],
+    "gallery": [
+      {
+        "src": "https://www.kmperkunas.lt/wp-content/uploads/2021/11/255340160_5304961849530543_6386127601115629031_n-555x369.jpg",
+        "caption": "Dovydas Nemeikša su 2012 m. komanda"
+      }
+    ]
+  },
+  {
+    "id": "lukas-simkus",
+    "name": "Lukas Šimkus",
+    "role": "Rinktinių treneris",
+    "teamsSummary": "KM Perkūnas 2011, 2011-2",
+    "phone": "+370 648 94542",
+    "email": "lukassimkus9@gmail.com",
+    "photo": "https://www.kmperkunas.lt/wp-content/uploads/2018/08/treneliumbai-4.png",
+    "bio": "KM „Perkūnas“ 2011 rinktinės vyriausiasis treneris, aktyviai ruošiantis komandą Lietuvos moksleivių krepšinio lygos kovoms.",
+    "interview": {
+      "birthplace": "Kaunas",
+      "startedBasketball": "Krepšinio aikštelėje praleista visa vaikystė.",
+      "coachingSince": "Dirba su jaunaisiais Perkūno talentais.",
+      "philosophy": "Šiuolaikinis greitas krepšinis, paremtas gera gynyba ir greitomis atakomis.",
+      "adviceToPlayers": "Darbas treniruotėse atsiperka varžybose.",
+      "favoriteMoments": "Kovingumas ir kova dėl kiekvieno kamuolio.",
+      "favoriteClub": "Kauno „Žalgiris“",
+      "favoritePlayer": "Luka Dončić"
+    },
+    "coachedTeamsList": [
+      {
+        "name": "KM Perkūnas 2011",
+        "slug": "km-perkunas-2011"
+      },
+      {
+        "name": "KM Perkūnas 2011-2",
+        "slug": "km-perkunas-2011-ii"
+      }
+    ],
+    "gallery": [
+      {
+        "src": "https://www.kmperkunas.lt/wp-content/uploads/2019/09/DSC_1735-simkus.jpg",
+        "alt": ""
+      },
+      {
+        "src": "https://www.kmperkunas.lt/wp-content/uploads/2019/09/DSC_1725-simkus-sukovas.jpg",
+        "alt": ""
+      }
+    ]
+  },
+  {
+    "id": "paulius-skiudulas",
+    "name": "Paulius Skiudulas",
+    "role": "Treneris",
+    "teamsSummary": "KM Perkūnas 2014, Pradinio rengimo grupės",
+    "phone": "+370 622 39910",
+    "email": "skiudulaspaul@gmail.com",
+    "photo": "https://www.kmperkunas.lt/wp-content/uploads/2021/08/NoteGPT_IMG_3346_round_300x300.png",
+    "bio": "Jaunųjų talentų ugdytojas, skatinantis fizinį aktyvumą, koordinaciją ir krepšinio pagrindų įvaldymą.",
+    "interview": {
+      "birthplace": "Kaunas",
+      "startedBasketball": "Nuo pat pradinių klasių.",
+      "coachingSince": "Specializuojasi pradinio rengimo grupėse.",
+      "philosophy": "Krepšinis turi teikti džiaugsmą. Pradiniame etape svarbiausia meilė sportui ir technika.",
+      "adviceToPlayers": "Būkite drąsūs ir nebijokite klysti – iš klaidų mokomės.",
+      "favoriteMoments": "Vaikų šypsenos po pataikyto pirmojo metimo.",
+      "favoriteClub": "Kauno „Žalgiris“",
+      "favoritePlayer": "Mantas Kalnietis"
+    },
+    "coachedTeamsList": [
+      {
+        "name": "KM Perkūnas 2014",
+        "slug": "km-perkunas-2014"
+      }
+    ],
+    "gallery": [
+      {
+        "src": "https://www.kmperkunas.lt/wp-content/uploads/2023/08/Perkunas-2014-2023-Daugai-555x370.jpg",
+        "caption": "Paulius Skiudulas stovykloje Dauguose su 2014 m. komanda"
+      }
+    ]
+  },
+  {
+    "id": "matas-kuzminskas",
+    "name": "Matas Kuzminskas",
+    "role": "Treneris",
+    "teamsSummary": "Vaikų krepšinio grupės, KM Perkūnas 2015",
+    "phone": "+370 694 63994",
+    "email": "matass.kuzminskas@gmail.com",
+    "photo": "https://www.kmperkunas.lt/wp-content/uploads/2021/08/111-300x300.jpg",
+    "bio": "Entuziastingas treneris, orientuotas į šiuolaikinę krepšinio metodiką ir jaunųjų žaidėjų pasitikėjimą savo jėgomis.",
+    "interview": {
+      "birthplace": "Kaunas",
+      "startedBasketball": "Krepšinis – šeimos sportas nuo vaikystės.",
+      "coachingSince": "Dirba su vaikų ir pradinukų grupėmis.",
+      "philosophy": "Kūrybiškumas, judrumas ir draugiškas kolektyvas.",
+      "adviceToPlayers": "Mėgaukitės žaidimu ir palaikykite komandos draugus.",
+      "favoriteMoments": "Komandinis susitelkimas lemiamomis akimirkomis.",
+      "favoriteClub": "Kauno „Žalgiris“",
+      "favoritePlayer": "Paulius Jankūnas"
+    },
+    "coachedTeamsList": [
+      {
+        "name": "KM Perkūnas 2015",
+        "slug": "km-perkunas-2015"
+      }
+    ],
+    "gallery": [
+      {
+        "src": "https://www.kmperkunas.lt/wp-content/uploads/2023/08/Perkunas-2015-2023-Daugai-555x370.jpg",
+        "caption": "Matas Kuzminskas su mažiausiais krepšininkais"
+      }
+    ]
+  },
+  {
+    "id": "nauris-baranauskas",
+    "name": "Nauris Baranauskas",
+    "role": "Treneris",
+    "teamsSummary": "Vaikų ir jaunimo grupės",
+    "phone": "+370 622 46515",
+    "email": "naurelisbar55@gmail.com",
+    "photo": "https://www.kmperkunas.lt/wp-content/uploads/2023/07/treneliumbai-5.png",
+    "bio": "Motyvuojantis specialistas, telkiantis komandas ir diegiantis atsakingą požiūrį į sportą ir treniruočių procesą.",
+    "interview": {
+      "birthplace": "Kaunas",
+      "startedBasketball": "Vaikystėje krepšinio aikštelėse.",
+      "coachingSince": "KM „Perkūnas“ trenerių gretose.",
+      "philosophy": "Atsakomybė, sunkus darbas ir komandinis vieningumas.",
+      "adviceToPlayers": "Treniruotėse atiduokite 100%, ir rezultatai ateis patys.",
+      "favoriteMoments": "Kovingumas ir atsidavimas aikštelėje.",
+      "favoriteClub": "Kauno „Žalgiris“",
+      "favoritePlayer": "Jonas Valančiūnas"
+    },
+    "coachedTeamsList": [
+      {
+        "name": "KM Perkūnas 2013",
+        "slug": "km-perkunas-2013"
+      }
+    ],
+    "gallery": [
+      {
+        "src": "https://www.kmperkunas.lt/wp-content/uploads/2023/08/Perkunas-2013-2014-2023-Daugai2-555x370.jpg",
+        "caption": "Treniruočių akimirkos su jaunimu"
+      }
+    ]
+  },
+  {
+    "id": "julius-venckevicius",
+    "name": "Julius Venckevičius",
+    "role": "Rinktinių treneris",
+    "teamsSummary": "KM Perkūnas 2010 rinktinė",
+    "phone": "+370 608 36664",
+    "email": "julius.venckeviciuss@gmail.com",
+    "photo": "https://www.kmperkunas.lt/wp-content/uploads/2024/08/treneliumbai-2.png",
+    "bio": "KM „Perkūnas“ 2010 rinktinės vyriausiasis treneris, pasižymintis taktiniu lankstumu ir krepšinio intelekto ugdymu.",
+    "interview": {
+      "birthplace": "Kaunas",
+      "startedBasketball": "Nuo mažens su oranžiniu kamuoliu.",
+      "coachingSince": "Dirba su talentingiausia 2010 m. laida.",
+      "philosophy": "Taktinis mąstymas, greitas sprendimų priėmimas ir kietas komandinis žaidimas.",
+      "adviceToPlayers": "Mąstykite aikštelėje dviem žingsniais į priekį.",
+      "favoriteMoments": "Gražūs komandiniai deriniai ir pergalės prieš stipriausius varžovus.",
+      "favoriteClub": "Kauno „Žalgiris“",
+      "favoritePlayer": "Šarūnas Jasikevičius"
+    },
+    "coachedTeamsList": [
+      {
+        "name": "KM Perkūnas 2010",
+        "slug": "km-perkunas-2010"
+      }
+    ],
+    "gallery": [
+      {
+        "src": "https://www.kmperkunas.lt/wp-content/uploads/2019/11/Perkunas-2010-2023-Daugai-1-555x370.jpg",
+        "caption": "Julius Venckevičius su 2010 m. komanda"
+      }
+    ]
+  },
+  {
+    "id": "rejus-pumputis",
+    "name": "Rėjus Pumputis",
+    "role": "Treneris",
+    "teamsSummary": "KM Perkūnas 2013, Jauniausiųjų grupės",
+    "phone": "+370 675 19293",
+    "email": "rejusss48@gmail.com",
+    "photo": "https://www.kmperkunas.lt/wp-content/uploads/2025/08/3c896a00-f383-4c74-8dcf-805cd671942a.jpg",
+    "bio": "Perspektyvus treneris, dirbantis su šiuolaikinėmis treniruočių metodikomis ir mažiausiųjų krepšininkų motyvacija.",
+    "interview": {
+      "birthplace": "Kaunas",
+      "startedBasketball": "Nuo pat darželio laikų.",
+      "coachingSince": "Naujosios kartos treneris.",
+      "philosophy": "Entuziazmas, pozityvumas ir pamatai teisingai krepšinio technikai.",
+      "adviceToPlayers": "Sportuokite su šypsena ir noru tobulėti kiekvieną dieną.",
+      "favoriteMoments": "Vaikų užsidegimas ir pirmieji krepšinio pasiekimai.",
+      "favoriteClub": "Kauno „Žalgiris“",
+      "favoritePlayer": "Luka Dončić"
+    },
+    "coachedTeamsList": [
+      {
+        "name": "KM Perkūnas 2013",
+        "slug": "km-perkunas-2013"
+      }
+    ],
+    "gallery": [
+      {
+        "src": "https://www.kmperkunas.lt/wp-content/uploads/2023/08/Perkunas-2013-2014-2023-Daugai2-555x370.jpg",
+        "caption": "Rėjus Pumputis su 2013 m. komanda"
+      }
+    ]
+  }
+]

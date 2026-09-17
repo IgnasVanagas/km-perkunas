@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Vytrita",
+    "category": "Generalinis rėmėjas",
+    "logo": "https://www.kmperkunas.lt/wp-content/uploads/2018/11/vytrita-png.png",
+    "link": "http://www.vytrita.lt"
+  },
+  {
+    "name": "Kauno miesto savivaldybė (Iniciatyvos Kaunui)",
+    "category": "Institucinis partneris",
+    "logo": "https://www.kmperkunas.lt/wp-content/uploads/2017/06/INICIATYVOS-KAUNUI-LOGO-PNG.png",
+    "link": "https://kaunas.lt"
+  },
+  {
+    "name": "Rasa „ActiveLife“",
+    "category": "Oficialus vanduo",
+    "logo": "https://www.kmperkunas.lt/wp-content/uploads/2014/01/rasa-naujas.jpg",
+    "link": "https://rasa.lt"
+  },
+  {
+    "name": "BasketNews.lt",
+    "category": "Informacinis partneris",
+    "logo": "https://www.kmperkunas.lt/wp-content/uploads/2014/01/basketnews-geras.jpg",
+    "link": "https://basketnews.lt"
+  },
+  {
+    "name": "Spalding",
+    "category": "Techninis partneris",
+    "logo": "https://www.kmperkunas.lt/wp-content/uploads/2021/04/Spalding_Logo.png",
+    "link": "https://spalding.com"
+  },
+  {
+    "name": "Baltic Metal",
+    "category": "Partneris",
+    "logo": "https://www.kmperkunas.lt/wp-content/uploads/2021/04/Baltic-metal-logo-300x152-1.jpg",
+    "link": "#"
+  },
+  {
+    "name": "EN Studija",
+    "category": "Partneris",
+    "logo": "https://www.kmperkunas.lt/wp-content/uploads/2021/04/en-studija.png",
+    "link": "#"
+  },
+  {
+    "name": "ARV Auto",
+    "category": "Partneris",
+    "logo": "https://www.kmperkunas.lt/wp-content/uploads/2014/01/arv.jpg",
+    "link": "#"
+  },
+  {
+    "name": "Jusena",
+    "category": "Partneris",
+    "logo": "https://www.kmperkunas.lt/wp-content/uploads/2014/01/jusena.jpg",
+    "link": "#"
+  },
+  {
+    "name": "Skirgesa",
+    "category": "Partneris",
+    "logo": "https://www.kmperkunas.lt/wp-content/uploads/2014/01/skirgesa.jpg",
+    "link": "#"
+  }
+]

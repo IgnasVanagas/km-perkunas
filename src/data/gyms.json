@@ -1,0 +1,192 @@
+[
+  {
+    "id": "gym-1",
+    "name": "„Saulės“ gimnazija",
+    "address": "Savanorių pr. 46, Kaunas",
+    "district": "Žaliakalnis",
+    "lat": 54.90387,
+    "lng": 23.92472,
+    "photo": "https://www.kmperkunas.lt/wp-content/uploads/2021/04/Saules-gimnazija2.jpg",
+    "features": "Pagrindinė rinktinių treniruočių bazė, erdvi standartinė krepšinio aikštelė, tribūnos",
+    "groups": [
+      "2008 m.",
+      "2009 m.",
+      "2010 m.",
+      "2011 m."
+    ]
+  },
+  {
+    "id": "gym-2",
+    "name": "Valdo Adamkaus gimnazija",
+    "address": "Bitininkų g. 31, Kaunas",
+    "district": "Aleksotas",
+    "lat": 54.86246,
+    "lng": 23.90153,
+    "photo": "https://www.kmperkunas.lt/wp-content/uploads/2021/04/adamkaus-gimnazija-logo.jpg",
+    "features": "Šiuolaikiška sporto salė, modernios persirengimo erdvės, patogus privažiavimas",
+    "groups": [
+      "2010 m.",
+      "2011 m.",
+      "2012 m.",
+      "2013–2015 m."
+    ]
+  },
+  {
+    "id": "gym-3",
+    "name": "Bernardo Brazdžionio mokykla",
+    "address": "Partizanų g. 22, Kaunas",
+    "district": "Dainava",
+    "lat": 54.91848,
+    "lng": 23.97395,
+    "photo": "https://www.kmperkunas.lt/wp-content/uploads/2021/04/brazdzionio-mokykla-logo-2x1-1.jpg",
+    "features": "Puiki lokacija Dainavos mikrorajone, aktyvios pradinio rengimo ir vaikų grupės",
+    "groups": [
+      "2012 m.",
+      "2013 m.",
+      "2014 m.",
+      "2015 m."
+    ]
+  },
+  {
+    "id": "gym-4",
+    "name": "Jono Basanavičiaus gimnazija",
+    "address": "Šarkuvos g. 28, Kaunas",
+    "district": "Šilainiai",
+    "lat": 54.93121,
+    "lng": 23.88247,
+    "photo": "https://www.kmperkunas.lt/wp-content/uploads/2021/04/Basanaviciaus-gimnazija-logo-2x1-1.png",
+    "features": "Viena pagrindinių Šilainių mikrorajono krepšinio bazių su puikia infrastruktūra",
+    "groups": [
+      "2009 m.",
+      "2011 m.",
+      "2013 m."
+    ]
+  },
+  {
+    "id": "gym-5",
+    "name": "Antano Smetonos gimnazija",
+    "address": "Geležinio Vilko g. 17, Kaunas",
+    "district": "Kalniečiai",
+    "lat": 54.92546,
+    "lng": 23.94821,
+    "photo": "https://www.kmperkunas.lt/wp-content/uploads/2021/04/Smetonos-gimnazija-logo.png",
+    "features": "Erdvi salė Kalniečių ir Eigulių gyventojams, kokybiškas parketas",
+    "groups": [
+      "2008 m.",
+      "2010 m.",
+      "2012 m."
+    ]
+  },
+  {
+    "id": "gym-6",
+    "name": "Aleksandro Puškino gimnazija (KTG)",
+    "address": "Vytauto pr. 50, Kaunas",
+    "district": "Centras",
+    "lat": 54.89324,
+    "lng": 23.92482,
+    "photo": "https://www.kmperkunas.lt/wp-content/uploads/2021/04/Puskino-gimnazija-logo2.png",
+    "features": "Strateginė vieta centre šalia autobusų stoties, patogus susisiekimas",
+    "groups": [
+      "2009 m.",
+      "2011 m.",
+      "2012 m."
+    ]
+  },
+  {
+    "id": "gym-7",
+    "name": "Prano Mašioto pradinė mokykla",
+    "address": "Rasytės g. 1, Kaunas",
+    "district": "Šilainiai",
+    "lat": 54.93482,
+    "lng": 23.87595,
+    "photo": "https://www.kmperkunas.lt/wp-content/uploads/2021/09/Logo_Web_Short-e1609702812690-300x106-1.png",
+    "features": "Saugi ir jauki aplinka patiems mažiausiems (5-8 m.) pradinukams",
+    "groups": [
+      "2014 m.",
+      "2015 m.",
+      "Darželinukai (5–7 m.)"
+    ]
+  },
+  {
+    "id": "gym-8",
+    "name": "KTU sporto salė",
+    "address": "Radvilėnų pl. 19, Kaunas",
+    "district": "Žaliakalnis",
+    "lat": 54.90483,
+    "lng": 23.95552,
+    "features": "Aukšto lygio sportinė danga ir profesionali krepšinio infrastruktūra",
+    "groups": [
+      "2006 m.",
+      "2007 m.",
+      "2008 m."
+    ]
+  },
+  {
+    "id": "gym-9",
+    "name": "Petrašiūnų progimnazija",
+    "address": "M. Gimbutienės g. 9, Kaunas",
+    "district": "Petrašiūnai",
+    "lat": 54.88722,
+    "lng": 24.00448,
+    "features": "Istorinė Perkūno gimtinės salė Petrašiūnų vaikams",
+    "groups": [
+      "2011 m.",
+      "2012 m.",
+      "2013 m."
+    ]
+  },
+  {
+    "id": "gym-10",
+    "name": "Žaliakalnio progimnazija",
+    "address": "Širvintų g. 15, Kaunas",
+    "district": "Žaliakalnis",
+    "lat": 54.91253,
+    "lng": 23.93104,
+    "features": "Patogus treniruočių centras Žaliakalnio ir Eigulių moksleiviams",
+    "groups": [
+      "2008 m.",
+      "2010 m.",
+      "2013 m."
+    ]
+  },
+  {
+    "id": "gym-11",
+    "name": "VDU Rasos gimnazija",
+    "address": "P. Lukšio g. 40, Kaunas",
+    "district": "Kalniečiai",
+    "lat": 54.92882,
+    "lng": 23.94401,
+    "features": "Moderni gimnazijos sporto salė šalia Kalniečių parko",
+    "groups": [
+      "2009 m.",
+      "2011 m."
+    ]
+  },
+  {
+    "id": "gym-12",
+    "name": "Milikonių progimnazija",
+    "address": "Baltijos g. 30, Kaunas",
+    "district": "Šilainiai",
+    "lat": 54.92751,
+    "lng": 23.88902,
+    "features": "Krepšinio treniruotės Šilainių ir Vilijampolės rajono vaikams",
+    "groups": [
+      "2012 m.",
+      "2014 m."
+    ]
+  },
+  {
+    "id": "gym-13",
+    "name": "Kauno „Vyturio“ gimnazija",
+    "address": "Taikos pr. 51, Kaunas",
+    "district": "Dainava",
+    "lat": 54.91423,
+    "lng": 23.96804,
+    "features": "Didelė renovuota sporto salė Dainavos ir Taikos pr. moksleiviams",
+    "groups": [
+      "2010 m.",
+      "2013 m.",
+      "2015 m."
+    ]
+  }
+]

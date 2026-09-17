@@ -1,0 +1,159 @@
+{
+  "title": "Tarptautinis krepšinio turnyras „PERKŪNIUKŲ“ taurė",
+  "editions": [
+    {
+      "year": "2023",
+      "yearLabel": "2023 m.",
+      "status": "Įvykęs",
+      "teamsCount": "24 komandos",
+      "title": "Tarptautinis krepšinio turnyras „PERKŪNIUKŲ“ taurė 2023",
+      "desc": "2023 m. pavasarį Kaune vykusiame tradiciniame turnyre varžėsi 24 komandos keturiose amžiaus grupėse. Rungtynės vyko didžiausiose Kauno krepšinio salėse.",
+      "groups": [
+        {
+          "name": "2008–2009 m. grupė",
+          "scheduleUrl": "https://kkml.lt/schedule/league/381",
+          "tableUrl": "https://kkml.lt/results/table/381",
+          "standingsUrl": "https://kkml.lt/leagues/standings/381",
+          "winner": "KM Perkūnas 2008 (Kaunas)",
+          "runnerUp": "Vilniaus KM (Vilnius)",
+          "third": "Klaipėdos KM (Klaipėda)",
+          "mvp": "Dovydas Gavienas (KM Perkūnas)"
+        },
+        {
+          "name": "2010–2011 m. grupė",
+          "scheduleUrl": "https://kkml.lt/schedule/league/382",
+          "tableUrl": "https://kkml.lt/results/table/382",
+          "standingsUrl": "https://kkml.lt/leagues/standings/382",
+          "winner": "KM Perkūnas 2010 (Kaunas)",
+          "runnerUp": "Kauno Žalgiris (Kaunas)",
+          "third": "Šiaulių KA Saulė (Šiauliai)",
+          "mvp": "Lukas Petrauskas (KM Perkūnas)"
+        },
+        {
+          "name": "2012–2013 m. grupė",
+          "scheduleUrl": "https://kkml.lt/schedule/league/383",
+          "tableUrl": "https://kkml.lt/results/table/383",
+          "standingsUrl": "https://kkml.lt/leagues/standings/383",
+          "winner": "Tornado KM (Kaunas)",
+          "runnerUp": "KM Perkūnas 2012 (Kaunas)",
+          "third": "Panevėžio SC (Panevėžys)",
+          "mvp": "Matas Stankevičius (Tornado KM)"
+        },
+        {
+          "name": "2014 m. ir jaun. grupė",
+          "scheduleUrl": "https://kkml.lt/schedule/league/384",
+          "tableUrl": "https://kkml.lt/results/table/384",
+          "standingsUrl": "https://kkml.lt/leagues/standings/384",
+          "winner": "KM Perkūnas 2014 (Kaunas)",
+          "runnerUp": "Sostinės KM (Vilnius)",
+          "third": "Alytaus SRC (Alytus)",
+          "mvp": "Jonas Kazlauskas (KM Perkūnas)"
+        }
+      ],
+      "gallery": [
+        {
+          "src": "https://www.kmperkunas.lt/wp-content/uploads/2019/11/Perkunas-2010-2023-Daugai-1-555x370.jpg",
+          "caption": "2023 m. apdovanojimų ceremonija"
+        },
+        {
+          "src": "https://www.kmperkunas.lt/wp-content/uploads/2021/11/Perkunas-2011-2023-Daugai-555x370.jpg",
+          "caption": "Lemiamų rungtynių kova dėl taurės"
+        },
+        {
+          "src": "https://www.kmperkunas.lt/wp-content/uploads/2023/08/Perkunas-2013-2014-2023-Daugai2-555x370.jpg",
+          "caption": "Mažųjų perkūniukų triumfas"
+        }
+      ]
+    },
+    {
+      "year": "2022",
+      "yearLabel": "2022 m.",
+      "status": "Įvykęs",
+      "teamsCount": "28 komandos",
+      "title": "Tarptautinis krepšinio turnyras „PERKŪNIUKŲ“ taurė 2022",
+      "desc": "2022 m. turnyras subūrė pajėgiausias Lietuvos ir kaimyninių šalių jaunimo komandas po pandeminės pertraukos.",
+      "groups": [
+        {
+          "name": "2006–2007 m. grupė",
+          "scheduleUrl": "http://kkml.lt/schedule/league/355",
+          "tableUrl": "http://kkml.lt/results/table/355",
+          "standingsUrl": "http://kkml.lt/leagues/standings/355",
+          "winner": "KM Perkūnas-Vytrita (Kaunas)",
+          "runnerUp": "Vilniaus KM (Vilnius)",
+          "third": "Kauno Žalgiris (Kaunas)",
+          "mvp": "Adomas Sidarevičius (KM Perkūnas)"
+        },
+        {
+          "name": "2009–2010 m. grupė",
+          "scheduleUrl": "http://kkml.lt/schedule/league/356",
+          "tableUrl": "http://kkml.lt/results/table/356",
+          "standingsUrl": "http://kkml.lt/leagues/standings/356",
+          "winner": "KM Perkūnas 2009 (Kaunas)",
+          "runnerUp": "Panevėžio SC (Panevėžys)",
+          "third": "Marijampolės SC (Marijampolė)",
+          "mvp": "Mantas Kazlauskas (KM Perkūnas)"
+        },
+        {
+          "name": "2011–2012 m. grupė",
+          "scheduleUrl": "http://kkml.lt/schedule/league/357",
+          "tableUrl": "http://kkml.lt/results/table/357",
+          "standingsUrl": "http://kkml.lt/leagues/standings/357",
+          "winner": "KM Perkūnas 2011 (Kaunas)",
+          "runnerUp": "Tornado KM (Kaunas)",
+          "third": "Klaipėdos KM (Klaipėda)",
+          "mvp": "Ignas Kučinskas (KM Perkūnas)"
+        },
+        {
+          "name": "2013 m. ir jaun. grupė",
+          "scheduleUrl": "http://kkml.lt/schedule/league/358",
+          "tableUrl": "http://kkml.lt/results/table/358",
+          "standingsUrl": "http://kkml.lt/leagues/standings/358",
+          "winner": "KM Perkūnas 2013 (Kaunas)",
+          "runnerUp": "Sostinės KM (Vilnius)",
+          "third": "Kauno Žalgiris (Kaunas)",
+          "mvp": "Matas Navickas (KM Perkūnas)"
+        }
+      ],
+      "gallery": [
+        {
+          "src": "https://www.kmperkunas.lt/wp-content/uploads/2019/09/Untitled-design-6-555x312.jpg",
+          "caption": "Perkūnas-Vytrita 2022 m. čempionai"
+        },
+        {
+          "src": "https://www.kmperkunas.lt/wp-content/uploads/2019/09/KM-Perkunas-2008-2019-900-555x312.jpg",
+          "caption": "Turnyro kovos „Saulės“ gimnazijoje"
+        }
+      ]
+    },
+    {
+      "year": "2020",
+      "yearLabel": "2020 m.",
+      "status": "Įvykęs",
+      "teamsCount": "20 komandų",
+      "title": "Jubiliejinis 20-mečio turnyras „PERKŪNIUKŲ“ taurė 2020",
+      "desc": "Mokyklos 20-mečio jubiliejui skirtas turnyras, kuriame dalyvavo stipriausios Lietuvos krepšinio mokyklos.",
+      "groups": [
+        {
+          "name": "2004–2005 m. grupė",
+          "winner": "KM Perkūnas 2005 (Kaunas)",
+          "runnerUp": "Kauno Tornado KM",
+          "third": "Vilniaus KM",
+          "mvp": "Gytis Nemeikša (KM Perkūnas)"
+        },
+        {
+          "name": "2007–2008 m. grupė",
+          "winner": "KM Perkūnas 2007-Vytrita (Kaunas)",
+          "runnerUp": "Klaipėdos KM",
+          "third": "Šiaulių KA Saulė",
+          "mvp": "Rokas Tumpa (KM Perkūnas)"
+        }
+      ],
+      "gallery": [
+        {
+          "src": "https://www.kmperkunas.lt/wp-content/uploads/2014/08/KM-Perkunas-2005-2018-900-555x312.jpg",
+          "caption": "2005 m. čempionų taurė"
+        }
+      ]
+    }
+  ]
+}

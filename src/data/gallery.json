@@ -1,0 +1,58 @@
+[
+  {
+    "id": "daugai-2026",
+    "title": "Vasaros stovykla Dauguose 2026",
+    "category": "Stovyklos",
+    "photo": "https://www.kmperkunas.lt/wp-content/uploads/2026/08/774201609_1665419832252492_7289095302140893784_n-1024x683.jpg",
+    "desc": "Intensyvios treniruotės, maudynės ežere, 3x3 turnyrai ir sportinis ryžtas."
+  },
+  {
+    "id": "svente-xxv",
+    "title": "Sezono uždarymo šventė ir XXV laida",
+    "category": "Renginiai",
+    "photo": "https://www.kmperkunas.lt/wp-content/uploads/2026/06/726400437_1608569871270822_5560039930518108631_n-1024x683.jpg",
+    "desc": "Mokyklos absolventų diplomų įteikimas ir geriausių sezono žaidėjų apdovanojimai."
+  },
+  {
+    "id": "priemimas-banner",
+    "title": "Treniruotės sporto salėse",
+    "category": "Treniruotės",
+    "photo": "https://www.kmperkunas.lt/wp-content/uploads/2026/08/Untitled-design-32-1024x576.jpg",
+    "desc": "Kamuolio varymo ir metimo technikos tobulinimas treniruočių centruose."
+  },
+  {
+    "id": "team-2010-daugai",
+    "title": "Perkūnas 2010 komanda stovykloje",
+    "category": "Komandos",
+    "photo": "https://www.kmperkunas.lt/wp-content/uploads/2019/11/Perkunas-2010-2023-Daugai-1-555x370.jpg",
+    "desc": "Trenerio Juliaus Venckevičiaus auklėtiniai pasiruošimo cikle."
+  },
+  {
+    "id": "team-2011-daugai",
+    "title": "Perkūnas 2011 pasirengimas",
+    "category": "Komandos",
+    "photo": "https://www.kmperkunas.lt/wp-content/uploads/2021/11/Perkunas-2011-2023-Daugai-555x370.jpg",
+    "desc": "MKL kovoms besiruošianti 2011 m. vaikinų komanda."
+  },
+  {
+    "id": "team-2013-daugai",
+    "title": "Perkūnas 2013/2014 jaunieji talentai",
+    "category": "Komandos",
+    "photo": "https://www.kmperkunas.lt/wp-content/uploads/2023/08/Perkunas-2013-2014-2023-Daugai2-555x370.jpg",
+    "desc": "Jaunųjų krepšininkų šypsenos ir komandinis susikaupimas."
+  },
+  {
+    "id": "team-2015-daugai",
+    "title": "Mažiausieji Perkūniukai 2015",
+    "category": "Komandos",
+    "photo": "https://www.kmperkunas.lt/wp-content/uploads/2023/08/Perkunas-2015-2023-Daugai-555x370.jpg",
+    "desc": "Pirmoji pažintis su krepšinio kamuoliu ir komandine dvasia."
+  },
+  {
+    "id": "kkml-medaliai",
+    "title": "KKML vicečempionų taurė",
+    "category": "Varžybos",
+    "photo": "https://www.kmperkunas.lt/wp-content/uploads/2014/08/KM-Perkunas-2006-KKML-2019-1920-555x312.jpg",
+    "desc": "KM „Perkūnas“ 2006 iškovojo II vietą Kauno čempionate."
+  }
+]

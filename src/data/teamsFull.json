@@ -1,0 +1,951 @@
+[
+  {
+    "slug": "km-perkunas-2006",
+    "name": "KM Perkūnas 2006",
+    "year": "2006 m.",
+    "league": "MKL U18 / KKML II vieta",
+    "leagueUrl": "https://mkl.lt",
+    "coach": "Modestas Bižys",
+    "coachSlug": "modestas-bizys",
+    "desc": "Aktyviai rungtyniaujanti rinktinė, Kauno krepšinio mėgėjų lygos vicečempionė.",
+    "photo": "https://www.kmperkunas.lt/wp-content/uploads/2014/08/KM-Perkunas-2006-KKML-2019-1920-555x312.jpg",
+    "achievements": [
+      "2022 m. MKL U18 B divizionas, Finalinis ketvertas",
+      "2021 m. KKML 2006 m. grupė, II vieta (Vicečempionai)",
+      "2019 m. Tarptautinis turnyras „Perkūno taurė“, II vieta",
+      "2018 m. MKL U14 čempionatas, A divizionas"
+    ],
+    "roster": [
+      {
+        "photo": "https://www.kmperkunas.lt/wp-content/uploads/2018/10/Barzdaitis-Haroldas-2020-1-150x200.jpg",
+        "name": "Haroldas Barzdaitis"
+      },
+      {
+        "photo": "https://www.kmperkunas.lt/wp-content/uploads/2018/10/Cirtautas-Domantas-2018-150x200.jpg",
+        "name": "Domantas Cirtautas"
+      },
+      {
+        "photo": "https://www.kmperkunas.lt/wp-content/uploads/2018/10/Davydovas-Lukas-2020-1-150x200.jpg",
+        "name": "Lukas Davydovas"
+      },
+      {
+        "photo": "https://www.kmperkunas.lt/wp-content/uploads/2018/10/Kidikas-Mantas-2020-4-150x200.jpg",
+        "name": "Mantas Kidikas"
+      },
+      {
+        "photo": "https://www.kmperkunas.lt/wp-content/uploads/2018/10/Kitovas-Rytis-2018-150x200.jpg",
+        "name": "Rytis Kitovas"
+      },
+      {
+        "photo": "https://www.kmperkunas.lt/wp-content/uploads/2018/10/Laurencikas-Mantas-2020-1-150x200.jpg",
+        "name": "Mantas Laurenčikas"
+      },
+      {
+        "photo": "https://www.kmperkunas.lt/wp-content/uploads/2018/10/Lukasevicius-Paulius-2020-1-150x200.jpg",
+        "name": "Paulius Lukaševičius"
+      },
+      {
+        "photo": "https://www.kmperkunas.lt/wp-content/uploads/2018/10/Steinbergas-Benas-2020-2-150x200.jpg",
+        "name": "Benas Šteinbergas"
+      },
+      {
+        "photo": "https://www.kmperkunas.lt/wp-content/uploads/2019/10/Stanius-Mantas-2020-1-150x200.jpg",
+        "name": "Mantas Stanius"
+      },
+      {
+        "photo": "https://www.kmperkunas.lt/wp-content/uploads/2019/10/Vizbaras-Meidas-2017-150x200.jpg",
+        "name": "Meidas Vizbaras"
+      },
+      {
+        "photo": "https://www.kmperkunas.lt/wp-content/uploads/2019/11/Lanka-Ugnius-2020-1-150x200.jpg",
+        "name": "Ugnius Lanka"
+      },
+      {
+        "photo": "https://www.kmperkunas.lt/wp-content/uploads/2021/06/Fatejevas-Kirilas-2019-150x199.jpg",
+        "name": "Kirilas Fatejevas"
+      },
+      {
+        "photo": "https://www.kmperkunas.lt/wp-content/uploads/2014/09/profile-img-150x188.jpg",
+        "name": "Karolis Butkus"
+      },
+      {
+        "photo": "https://www.kmperkunas.lt/wp-content/uploads/2023/01/Jankevicius-Martynas.jpg",
+        "name": "Martynas Jankevičius"
+      },
+      {
+        "photo": "https://www.kmperkunas.lt/wp-content/uploads/2023/01/Senvaitis-Ignas.jpg",
+        "name": "Ignas Senvaitis"
+      }
+    ],
+    "gallery": [
+      {
+        "src": "https://www.kmperkunas.lt/wp-content/uploads/2014/08/Perkunas-2006-2007-2023-Daugai.jpg",
+        "caption": "„Perkūnas“ 2006/2007 (2023)"
+      },
+      {
+        "src": "https://www.kmperkunas.lt/wp-content/uploads/2014/08/KM-Perkunas-2006-2020-1-1920.jpg",
+        "caption": "KM „Perkūnas“ 2006 (2020)"
+      },
+      {
+        "src": "https://www.kmperkunas.lt/wp-content/uploads/2014/08/KM-Perkūnas-2006-2019-Xiaomi-Christmas-Cup.jpg",
+        "caption": "KM „Perkūnas“ 2006 (Xiaomi Christmas Cup 2019, I vieta)"
+      },
+      {
+        "src": "https://www.kmperkunas.lt/wp-content/uploads/2014/08/KM-Perkunas-2006-KKML-2019-1920.jpg",
+        "caption": "KM „Perkūnas“ 2006 KKML 2006 m. grupė, II vieta (2019)"
+      },
+      {
+        "src": "https://www.kmperkunas.lt/wp-content/uploads/2014/08/KM-Perkunas-2006-2018-1920.jpg",
+        "caption": "KM „Perkūnas“ 2006 (2018)"
+      },
+      {
+        "src": "https://www.kmperkunas.lt/wp-content/uploads/2014/08/KM-Perkūnas-2006-201716x9.jpg",
+        "caption": "KM „Perkūnas“ 2006 (2017)"
+      },
+      {
+        "src": "https://www.kmperkunas.lt/wp-content/uploads/2014/08/17103603_1311651062207188_981235559549533364_n.jpg",
+        "caption": "Jr. NBA Lietuva čempionate „Perkūnas“ atstovavo Los Angeles „Lakers“ komandą"
+      },
+      {
+        "src": "https://www.kmperkunas.lt/wp-content/uploads/2014/08/16938515_1480006088707567_370537621153209358_n.jpg",
+        "caption": "Jr. NBA Lietuva burtų traukimo ceremonijoje"
+      },
+      {
+        "src": "https://www.kmperkunas.lt/wp-content/uploads/2014/08/KM-Perkūnas-2006-2016-pavasaris.jpg",
+        "caption": "KKML 2006 m. grupė, II vieta (2016)"
+      },
+      {
+        "src": "https://www.kmperkunas.lt/wp-content/uploads/2014/08/2006-su-fonu-be-uzraso-16x9-900.jpg",
+        "caption": "„Perkūnas“ 2006 (2015/2016)"
+      },
+      {
+        "src": "https://www.kmperkunas.lt/wp-content/uploads/2014/08/KM-Perkunas-2006-16x9.jpg",
+        "caption": "KM „Perkūnas“ 2006 ir Europos U16 vicečempiono Aido Bakučio treniruotė"
+      },
+      {
+        "src": "https://www.kmperkunas.lt/wp-content/uploads/2014/08/DSC_6954e.jpg",
+        "caption": "KM „Perkūnas“ 2006 ir Europos U16 vicečempiono Aido Bakučio treniruotė"
+      }
+    ]
+  },
+  {
+    "slug": "km-perkunas-2006-2",
+    "name": "KM Perkūnas 2006-2",
+    "year": "2006 m.",
+    "league": "MKL B divizionas",
+    "leagueUrl": "https://mkl.lt",
+    "coach": "Modestas Bižys",
+    "coachSlug": "modestas-bizys",
+    "desc": "Antroji 2006 m. gimimo komanda, suteikianti maksimalų žaidybinį laiką visiems auklėtiniams.",
+    "photo": "https://www.kmperkunas.lt/wp-content/uploads/2019/09/KM-Perkunas-2006-2-2019-555x312.jpg",
+    "achievements": [
+      "2021 m. KKML moksleivių pirmenybės, dalyviai",
+      "2020 m. MKL B diviziono atkrintamosios"
+    ],
+    "roster": [
+      {
+        "name": "Lukas Kazlauskas",
+        "photo": "https://www.kmperkunas.lt/wp-content/uploads/2018/10/Barzdaitis-Haroldas-2020-1-150x200.jpg"
+      },
+      {
+        "name": "Deividas Valaitis",
+        "photo": "https://www.kmperkunas.lt/wp-content/uploads/2018/10/Bieliauskas-Mantas-2020-1-150x200.jpg"
+      },
+      {
+        "name": "Jonas Petrauskas",
+        "photo": "https://www.kmperkunas.lt/wp-content/uploads/2018/10/Ciulkinas-Kajus-2020-1-150x200.jpg"
+      }
+    ],
+    "gallery": [
+      {
+        "src": "https://www.kmperkunas.lt/wp-content/uploads/2019/11/KM-Perkunas-2006-2-2019-2020-1200.jpg",
+        "caption": "KM „Perkūnas“ 2006-2 (2019-2020)"
+      },
+      {
+        "src": "https://www.kmperkunas.lt/wp-content/uploads/2019/11/KM-Perkunas-2006-2-2019.jpg",
+        "caption": "KM „Perkūnas“ 2006-2 (2019)"
+      }
+    ]
+  },
+  {
+    "slug": "km-perkunas-2007",
+    "name": "KM Perkūnas 2007-Vytrita",
+    "year": "2007 m.",
+    "league": "MKL A divizionas",
+    "leagueUrl": "https://mkl.lt",
+    "coach": "Tadas Lukauskas",
+    "coachSlug": "tadas-lukauskas",
+    "desc": "Generalinio rėmėjo Vytrita palaikoma pagrindinė 2007 m. rinktinė, viena pajėgiausių šalyje.",
+    "photo": "https://www.kmperkunas.lt/wp-content/uploads/2019/09/Untitled-design-6-555x312.jpg",
+    "achievements": [
+      "2016 m. „Perkūno“ taurė, III vieta",
+      "2016 m. „Perkūno“ 2006 m. ir jaun. turnyras, II vieta",
+      "2016 m. „Perkūno“ turnyras (gim. 2007 m.), II vieta",
+      "2017m. KKML 2007 m. grupė, III vieta",
+      "2017 m. „Perkūno“ Pavasario turnyras (gim. 2007 m.), I vieta",
+      "2017 m. PIKENROLL CUP 2017, I vieta",
+      "2017 m. Tornado Christmas Cup 2017, I vieta",
+      "2018 m. KKML 2007 m. grupė, I vieta",
+      "2018 m. „Xiaomi Christmas Cup 2018“ Kaune, III vieta",
+      "2019 m. MKL U12 „Pirmasis iššūkis“, III vieta",
+      "2019 m. Radom Cup, Lenkija, I vieta",
+      "2019 m. KKML 2007 m. grupė, II vieta",
+      "2019 m. #beactive Kaunas Cup turnyras, I vieta",
+      "2020 m. Kėdainių SC/Pickenroll CUP 2020 &#8211; I vieta",
+      "2020 m. „Vasaros krepšinis-2020“ (Kretinga) &#8211; II vieta",
+      "2020 m. „Pikenroll CUP“ turnyras, Kėdainiai &#8211; I vieta",
+      "2021 m. KKML 2007 m. grupė, I vieta",
+      "2021 m. MKL U14 A div., III vieta",
+      ",,Litnaglio taurė-2021“ (Klaipėda), II vieta",
+      ",,Tobula instaliacija Cup-2021“ (Klaipėda), III vieta",
+      "2022 m. MKL U15 A div., II vieta",
+      ",,Tobula instaliacija Cup-2022“ (Klaipėda), II vieta",
+      "Christmas Cup 2023“ Kauno rajono mero taurei laimėti, I vieta",
+      "MKL-BERGO 3&#215;3 U16, I vieta",
+      "Easter Cup 2023 (Čekija), III vieta"
+    ],
+    "roster": [
+      {
+        "photo": "https://www.kmperkunas.lt/wp-content/uploads/2018/10/dauugaiportr-23-of-260-scaled-150x188.jpg",
+        "name": "Martynas Barzdaitis"
+      },
+      {
+        "photo": "https://www.kmperkunas.lt/wp-content/uploads/2018/10/dauugaiportr-24-of-260-scaled-150x188.jpg",
+        "name": "Kajus Gerdžiūnas"
+      },
+      {
+        "photo": "https://www.kmperkunas.lt/wp-content/uploads/2018/10/Grunkis-Dominykas-2018-150x200.jpg",
+        "name": "Dominykas Grunkis"
+      },
+      {
+        "photo": "https://www.kmperkunas.lt/wp-content/uploads/2018/10/Untitled-design-7-150x255.jpg",
+        "name": "Jordanas Jančauskas"
+      },
+      {
+        "photo": "https://www.kmperkunas.lt/wp-content/uploads/2018/10/dauugaiportr-25-of-260-scaled-150x225.jpg",
+        "name": "Nojus Kereišis"
+      },
+      {
+        "photo": "https://www.kmperkunas.lt/wp-content/uploads/2018/10/dauugaiportr-8-of-260-scaled-150x188.jpg",
+        "name": "Gustas Kvašys"
+      },
+      {
+        "photo": "https://www.kmperkunas.lt/wp-content/uploads/2018/10/dauugaiportr-5-of-260-150x187.jpg",
+        "name": "Jokūbas Vyšniauskas"
+      },
+      {
+        "photo": "https://www.kmperkunas.lt/wp-content/uploads/2018/10/dauugaiportr-22-of-260-scaled-150x188.jpg",
+        "name": "Raigardas Žičkus"
+      },
+      {
+        "photo": "https://www.kmperkunas.lt/wp-content/uploads/2019/10/dauugaiportr-18-of-260-scaled-150x188.jpg",
+        "name": "Rokas Juodviršis"
+      },
+      {
+        "photo": "https://www.kmperkunas.lt/wp-content/uploads/2019/10/dauugaiportr-17-of-260-scaled-150x188.jpg",
+        "name": "Jonas Šatas"
+      },
+      {
+        "photo": "https://www.kmperkunas.lt/wp-content/uploads/2014/09/profile-img-150x188.jpg",
+        "name": "Matas Kaluževičius"
+      },
+      {
+        "photo": "https://www.kmperkunas.lt/wp-content/uploads/2021/04/dauugaiportr-15-of-260-scaled-150x188.jpg",
+        "name": "Rokas Pieškys"
+      },
+      {
+        "photo": "https://www.kmperkunas.lt/wp-content/uploads/2023/01/Augulis-Markas-150x150.jpg",
+        "name": "Markas Augulis"
+      },
+      {
+        "photo": "https://www.kmperkunas.lt/wp-content/uploads/2023/01/Baliutavicius-Arminas-150x150.jpg",
+        "name": "Arminas Baliutavičius"
+      },
+      {
+        "photo": "https://www.kmperkunas.lt/wp-content/uploads/2023/01/dauugaiportr-7-of-260-scaled-150x188.jpg",
+        "name": "Ernestas Garnys"
+      },
+      {
+        "photo": "https://www.kmperkunas.lt/wp-content/uploads/2023/01/Jakubauskas-Ugnius.jpg",
+        "name": "Ugnius Jakubauskas"
+      },
+      {
+        "photo": "https://www.kmperkunas.lt/wp-content/uploads/2023/01/dauugaiportr-3-of-260-scaled-150x188.jpg",
+        "name": "Rytis Kunigonis"
+      },
+      {
+        "photo": "https://www.kmperkunas.lt/wp-content/uploads/2023/01/dauugaiportr-21-of-260-scaled-150x188.jpg",
+        "name": "Kajus Jakaitis"
+      },
+      {
+        "photo": "https://www.kmperkunas.lt/wp-content/uploads/2024/11/dauugaiportr-9-of-260-scaled-150x188.jpg",
+        "name": "Adrijus Kostiuchinas"
+      },
+      {
+        "photo": "https://www.kmperkunas.lt/wp-content/uploads/2011/01/treneliumbai-9.png",
+        "name": "Modestas Bižys"
+      }
+    ],
+    "gallery": [
+      {
+        "src": "https://www.kmperkunas.lt/wp-content/uploads/2016/08/KM-Perkunas-2007-Vytrita-MKL-U14-III-vieta-2021-1920.jpg",
+        "caption": "KM „Perkūnas“ 2007-Vytrita, MKL U14 III vieta (2021)"
+      },
+      {
+        "src": "https://www.kmperkunas.lt/wp-content/uploads/2016/08/KM-Perkunas-2007-KKML-I-vieta-2021-1920.jpg",
+        "caption": "KM „Perkūnas“ 2007, KKML 2007 m. grupė, I vieta (2021)"
+      },
+      {
+        "src": "https://www.kmperkunas.lt/wp-content/uploads/2016/08/KM-Perkunas-2007-2020-1920.jpg",
+        "caption": "KM „Perkūnas“ 2007-Vytrita (2020)"
+      },
+      {
+        "src": "https://www.kmperkunas.lt/wp-content/uploads/2019/10/2007-Perkunas-VKM-61.jpg",
+        "caption": "„Perkūnas“ 2007 #beactive Kaunas Cup, I vieta"
+      },
+      {
+        "src": "https://www.kmperkunas.lt/wp-content/uploads/2016/08/KM-Perkunas-2007-2019-MKL-III-vieta.jpg",
+        "caption": "KM „Perkūnas“ 2007, MKL U12 „Pirmasis iššūkis“, III vieta (2019)"
+      },
+      {
+        "src": "https://www.kmperkunas.lt/wp-content/uploads/2016/08/KM-Perkunas-2007-KKML-2019-1920.jpg",
+        "caption": "KM „Perkūnas“ 2007 KKML 2007 m. grupė (2019)"
+      },
+      {
+        "src": "https://www.kmperkunas.lt/wp-content/uploads/2016/08/KM-Perkunas-2007-2018-900.jpg",
+        "caption": "KM „Perkūnas“ 2007 (2018)"
+      },
+      {
+        "src": "https://www.kmperkunas.lt/wp-content/uploads/2016/08/KM-Perkunas-2007-2017-900.jpg",
+        "caption": "KM „Perkūnas“ 2007 (2017)"
+      },
+      {
+        "src": "https://www.kmperkunas.lt/wp-content/uploads/2016/08/KM-Perkunas-2007-16x9.jpg",
+        "caption": "KM „Perkūnas“ 2007 / Pavasario turnyras / I vieta"
+      },
+      {
+        "src": "https://www.kmperkunas.lt/wp-content/uploads/2016/08/KM-Perkunas-2007-2016-ruduo-900px.jpg",
+        "caption": "KM „Perkūnas“ 2007 draugiškame turnyre (2016 ruduo)"
+      },
+      {
+        "src": "https://www.kmperkunas.lt/wp-content/uploads/2016/08/KM-Perkunas-2007-ir-jaun-900px.jpg",
+        "caption": "Šv. Pranciškaus ir A. Smetonos gimnazijų auklėtiniai"
+      }
+    ]
+  },
+  {
+    "slug": "km-perkunas-2007-2",
+    "name": "KM Perkūnas 2007-2",
+    "year": "2007 m.",
+    "league": "Kauno miesto moksleivių pirmenybės",
+    "leagueUrl": "https://kkml.lt",
+    "coach": "Vytautas Žvirblis",
+    "coachSlug": "zvirblis-vytautas",
+    "desc": "Komanda, besivaržanti Kauno miesto ir regiono turnyruose bei KKML pirmenybėse.",
+    "photo": "https://www.kmperkunas.lt/wp-content/uploads/2019/09/Untitled-design-6-555x312.jpg",
+    "achievements": [
+      "2022 m. KKML moksleivių lyga, pusfinalininkai",
+      "2021 m. Kauno mero taurės turnyro dalyviai"
+    ],
+    "roster": [
+      {
+        "name": "Mantas Vaitkus",
+        "photo": "https://www.kmperkunas.lt/wp-content/uploads/2019/10/Gavienas-Dovydas-2019-2-180x240.jpg"
+      },
+      {
+        "name": "Kipras Sabonis",
+        "photo": "https://www.kmperkunas.lt/wp-content/uploads/2019/10/Gėrikas-Kipras-2019-2-180x240.jpg"
+      }
+    ],
+    "gallery": [
+      {
+        "src": "https://www.kmperkunas.lt/wp-content/uploads/2017/09/105674708_4065977480110402_3492543774309162626_n.jpg",
+        "caption": "KM Perkūnas 2007-2 (2020)"
+      },
+      {
+        "src": "https://www.kmperkunas.lt/wp-content/uploads/2017/09/105407207_4065977333443750_6767249511108183197_n.jpg",
+        "caption": "KM Perkūnas 2007-2 (2020)"
+      },
+      {
+        "src": "https://www.kmperkunas.lt/wp-content/uploads/2017/09/105028534_4065977310110419_4790969006736646259_n.jpg",
+        "caption": "KM Perkūnas 2007-2 (2020)"
+      },
+      {
+        "src": "https://www.kmperkunas.lt/wp-content/uploads/2017/09/KM-Perkunas-2007-2.jpg",
+        "caption": "KM „Perkūnas“ 2007-2 auklėtiniai"
+      }
+    ]
+  },
+  {
+    "slug": "km-perkunas-2008",
+    "name": "KM Perkūnas 2008",
+    "year": "2008 m.",
+    "league": "MKL Jaunučių U16 / U17",
+    "leagueUrl": "https://mkl.lt/league/613/team/385985/?seasonId=126736",
+    "coach": "Tadas Lukauskas",
+    "coachSlug": "tadas-lukauskas",
+    "desc": "Perspektyvi vaikinų komanda, kasmet tobulėjanti vasaros stovyklose Dauguose bei MKL A divizione.",
+    "photo": "https://www.kmperkunas.lt/wp-content/uploads/2019/09/KM-Perkunas-2008-2019-900-555x312.jpg",
+    "achievements": [
+      "2021 m. MKL U13 B div., III vieta (Bronzos medaliai)",
+      "2021 m. KKML 2008 m. grupė, III vieta",
+      "2022 m. MKL U14 A diviziono dalyviai",
+      "2023 m. MKL U15 A divizionas, atkrintamosios"
+    ],
+    "roster": [
+      {
+        "photo": "https://www.kmperkunas.lt/wp-content/uploads/2019/10/Gavienas-Dovydas-2019-2-180x240.jpg",
+        "name": "Dovydas Gavienas"
+      },
+      {
+        "photo": "https://www.kmperkunas.lt/wp-content/uploads/2019/10/Gėrikas-Kipras-2019-2-180x240.jpg",
+        "name": "Kipras Gėrikas"
+      },
+      {
+        "photo": "https://www.kmperkunas.lt/wp-content/uploads/2019/10/Janušauskas-Lukas-2019-1-180x240.jpg",
+        "name": "Lukas Janušauskas"
+      },
+      {
+        "photo": "https://www.kmperkunas.lt/wp-content/uploads/2019/10/dauugaiportr-18-of-260-scaled-180x225.jpg",
+        "name": "Rokas Juodviršis"
+      },
+      {
+        "photo": "https://www.kmperkunas.lt/wp-content/uploads/2019/10/Kučinskas-Ignas-2019-2-180x240.jpg",
+        "name": "Ignas Kučinskas"
+      },
+      {
+        "photo": "https://www.kmperkunas.lt/wp-content/uploads/2019/10/Malichinas-Tomas-2019-3-180x240.jpg",
+        "name": "Tomas Malichinas"
+      },
+      {
+        "photo": "https://www.kmperkunas.lt/wp-content/uploads/2019/10/dauugaiportr-107-of-260-scaled-180x225.jpg",
+        "name": "Denis Nalivaiko"
+      },
+      {
+        "photo": "https://www.kmperkunas.lt/wp-content/uploads/2019/10/Padvelskis-Gustautas-2019-1-180x240.jpg",
+        "name": "Gustautas Padvelskis"
+      },
+      {
+        "photo": "https://www.kmperkunas.lt/wp-content/uploads/2019/10/dauugaiportr-101-of-260-scaled-180x225.jpg",
+        "name": "Vakaris Pavlovas"
+      },
+      {
+        "photo": "https://www.kmperkunas.lt/wp-content/uploads/2019/10/Staniulis-Matas-2019-2-180x240.jpg",
+        "name": "Matas Staniulis"
+      },
+      {
+        "photo": "https://www.kmperkunas.lt/wp-content/uploads/2019/10/Stanius-Matas-2019-2-180x240.jpg",
+        "name": "Matas Stanius"
+      },
+      {
+        "photo": "https://www.kmperkunas.lt/wp-content/uploads/2019/10/dauugaiportr-17-of-260-scaled-180x225.jpg",
+        "name": "Jonas Šatas"
+      },
+      {
+        "photo": "https://www.kmperkunas.lt/wp-content/uploads/2019/10/Šivickas-Otonas-2019-2-180x240.jpg",
+        "name": "Otonas Šivickas"
+      },
+      {
+        "photo": "https://www.kmperkunas.lt/wp-content/uploads/2019/10/Švykas-Mantas-2019-2-180x240.jpg",
+        "name": "Mantas Švykas"
+      },
+      {
+        "photo": "https://www.kmperkunas.lt/wp-content/uploads/2019/10/dauugaiportr-99-of-260-scaled-180x225.jpg",
+        "name": "Vytis Šliogeris"
+      },
+      {
+        "photo": "https://www.kmperkunas.lt/wp-content/uploads/2019/11/Sciuckas-Nojus-2020-180x240.jpg",
+        "name": "Nojus Ščiuckas"
+      },
+      {
+        "photo": "https://www.kmperkunas.lt/wp-content/uploads/2014/09/profile-img-180x225.jpg",
+        "name": "Matas Kamandulis"
+      },
+      {
+        "photo": "https://www.kmperkunas.lt/wp-content/uploads/2021/04/Binevicius-Dovydas-2021-180x239.jpg",
+        "name": "Dovydas Binevičius"
+      },
+      {
+        "photo": "https://www.kmperkunas.lt/wp-content/uploads/2021/04/dauugaiportr-15-of-260-scaled-180x225.jpg",
+        "name": "Rokas Pieškys"
+      },
+      {
+        "photo": "https://www.kmperkunas.lt/wp-content/uploads/2014/09/profile-img-180x225.jpg",
+        "name": "Giuliano Caracci"
+      },
+      {
+        "photo": "https://www.kmperkunas.lt/wp-content/uploads/2023/01/Kvedaravicius-Dominykas.jpeg",
+        "name": "Dominykas Kvedaravičius"
+      },
+      {
+        "photo": "https://www.kmperkunas.lt/wp-content/uploads/2014/01/Lukauskas-Tadas-2019-apvalus-300x300.png",
+        "name": "Tadas Lukauskas"
+      }
+    ],
+    "gallery": [
+      {
+        "src": "https://www.kmperkunas.lt/wp-content/uploads/2017/08/Perkunas-2008-2023-Daugai-1.jpg",
+        "caption": "„Perkūnas“ 2008 (2023)"
+      },
+      {
+        "src": "https://www.kmperkunas.lt/wp-content/uploads/2017/08/KM-Perkunas-2008-2021-KKML.jpg",
+        "caption": "KM „Perkūnas“ 2008, KKML 2008 m. grupė, III vieta (2021)"
+      },
+      {
+        "src": "https://www.kmperkunas.lt/wp-content/uploads/2017/08/KM-Perkunas-2008-2021-U13-B-div.-III-vieta-1920.jpg",
+        "caption": "KM „Perkūnas“ 2008, MKL U13 B div. III vieta (2021)"
+      },
+      {
+        "src": "https://www.kmperkunas.lt/wp-content/uploads/2017/08/KM-Perkunas-2008-2021.jpg",
+        "caption": "KM „Perkūnas“ 2008 (2021)"
+      },
+      {
+        "src": "https://www.kmperkunas.lt/wp-content/uploads/2017/08/KM-Perkunas-2008-2020-01-900.jpg",
+        "caption": "KM „Perkūnas“ 2008 (2020)"
+      },
+      {
+        "src": "https://www.kmperkunas.lt/wp-content/uploads/2019/09/KM-Perkunas-2008-2019-900.jpg",
+        "caption": "KM „Perkūnas“ 2008 (2019, Daugai)"
+      },
+      {
+        "src": "https://www.kmperkunas.lt/wp-content/uploads/2018/08/KM-Perkūnas-2008-2017-900.jpg",
+        "caption": "KM „Perkūnas“ 2008 (2017)"
+      },
+      {
+        "src": "https://www.kmperkunas.lt/wp-content/uploads/2017/08/KM-Perkūnas-2008.jpg",
+        "caption": "KM „Perkūnas“ 2008 auklėtiniai"
+      }
+    ]
+  },
+  {
+    "slug": "km-perkunas-2009",
+    "name": "KM Perkūnas 2009",
+    "year": "2009 m.",
+    "league": "MKL Jaunučių U15 / U16",
+    "leagueUrl": "https://mkl.lt",
+    "coach": "Tadas Lukauskas",
+    "coachSlug": "tadas-lukauskas",
+    "desc": "Darni komanda, sėkmingai startavusi „Pirmojo iššūkio“ čempionate ir tęsianti pergalingas kovas MKL.",
+    "photo": "https://www.kmperkunas.lt/wp-content/uploads/2019/09/KM-Perkunas-2009-2019-900-555x312.jpg",
+    "achievements": [
+      "2022 m. PERKŪNIUKŲ taurė 2009 m. grupė, I vieta (Čempionai)",
+      "2022 m. MKL U13 čempionato atkrintamosios varžybos",
+      "2021 m. MKL „Pirmasis iššūkis“ U12, Finalinis etapas"
+    ],
+    "roster": [
+      {
+        "photo": "https://www.kmperkunas.lt/wp-content/uploads/2019/10/dauugaiportr-107-of-260-scaled-150x188.jpg",
+        "name": "Denis Nalivaiko"
+      },
+      {
+        "photo": "https://www.kmperkunas.lt/wp-content/uploads/2019/10/dauugaiportr-101-of-260-scaled-150x188.jpg",
+        "name": "Vakaris Pavlovas"
+      },
+      {
+        "photo": "https://www.kmperkunas.lt/wp-content/uploads/2019/10/dauugaiportr-99-of-260-scaled-150x188.jpg",
+        "name": "Vytis Šliogeris"
+      },
+      {
+        "photo": "https://www.kmperkunas.lt/wp-content/uploads/2019/11/dauugaiportr-104-of-260-scaled-150x188.jpg",
+        "name": "Domas Dragūnas"
+      },
+      {
+        "photo": "https://www.kmperkunas.lt/wp-content/uploads/2019/11/657c50debd246-150x196.jpg",
+        "name": "Tauras Kuzminas"
+      },
+      {
+        "photo": "https://www.kmperkunas.lt/wp-content/uploads/2019/11/dauugaiportr-112-of-260-scaled-150x188.jpg",
+        "name": "Martynas Leskauskas"
+      },
+      {
+        "photo": "https://www.kmperkunas.lt/wp-content/uploads/2019/11/dauugaiportr-93-of-260-scaled-150x188.jpg",
+        "name": "Modestas Žalneriauskas"
+      },
+      {
+        "photo": "https://www.kmperkunas.lt/wp-content/uploads/2019/11/Zemaitis-Edvinas-2021-150x200.jpg",
+        "name": "Edvinas Žemaitis"
+      },
+      {
+        "photo": "https://www.kmperkunas.lt/wp-content/uploads/2021/04/dauugaiportr-108-of-260-scaled-150x188.jpg",
+        "name": "Gustas Janulis"
+      },
+      {
+        "photo": "https://www.kmperkunas.lt/wp-content/uploads/2021/04/dauugaiportr-103-of-260-scaled-150x188.jpg",
+        "name": "Matas Antanavičius"
+      },
+      {
+        "photo": "https://www.kmperkunas.lt/wp-content/uploads/2024/11/dauugaiportr-114-of-260-scaled-150x188.jpg",
+        "name": "Jonas Remeika"
+      },
+      {
+        "photo": "https://www.kmperkunas.lt/wp-content/uploads/2024/11/dauugaiportr-115-of-260-scaled-150x188.jpg",
+        "name": "Benediktas Tumosa"
+      },
+      {
+        "photo": "https://www.kmperkunas.lt/wp-content/uploads/2024/11/dauugaiportr-102-of-260-scaled-150x188.jpg",
+        "name": "Justas Utyra"
+      },
+      {
+        "photo": "https://www.kmperkunas.lt/wp-content/uploads/2014/01/Lukauskas-Tadas-2019-apvalus-300x300.png",
+        "name": "Tadas Lukauskas"
+      }
+    ],
+    "gallery": [
+      {
+        "src": "https://www.kmperkunas.lt/wp-content/uploads/2018/08/KM-Perkunas-2009-2021-1920px.jpg",
+        "caption": "KM „Perkūnas“ 2009 (2021)"
+      },
+      {
+        "src": "https://www.kmperkunas.lt/wp-content/uploads/2018/08/KM-Perkūnas-2009-2019-12-12-16x9.jpg",
+        "caption": "KM Perkūnas 2009"
+      },
+      {
+        "src": "https://www.kmperkunas.lt/wp-content/uploads/2019/09/KM-Perkunas-2009-2019-900.jpg",
+        "caption": "KM „Perkūnas“ 2009 (2019)"
+      },
+      {
+        "src": "https://www.kmperkunas.lt/wp-content/uploads/2018/08/KM-Perkunas-2009-2019-900a.jpg",
+        "caption": "KM „Perkūnas“ 2009 (2019)"
+      },
+      {
+        "src": "https://www.kmperkunas.lt/wp-content/uploads/2018/08/KM-Perkunas-2009-2019-16x9.jpg",
+        "caption": "KM „Perkūnas“ 2009 (2019)"
+      },
+      {
+        "src": "https://www.kmperkunas.lt/wp-content/uploads/2018/08/KM-Perkunas-2009-I-2018-900.jpg",
+        "caption": "KM „Perkūnas“-B.Brazdžionio gimnazija (2018)"
+      },
+      {
+        "src": "https://www.kmperkunas.lt/wp-content/uploads/2018/08/KM-Perkūnas-2009-IV-2018-900.jpg",
+        "caption": "KM „Perkūnas“-V.Adamkaus gimnazija (2018)"
+      },
+      {
+        "src": "https://www.kmperkunas.lt/wp-content/uploads/2018/08/KM-Perkūnas-2009-II-2018-900.jpg",
+        "caption": "KM „Perkūnas“-Petrašiūnai (2018)"
+      },
+      {
+        "src": "https://www.kmperkunas.lt/wp-content/uploads/2018/08/KM-Perkūnas-2009-III-2018-900.jpg",
+        "caption": "KM „Perkūnas“-A.Puškino gimnazija (2018)"
+      },
+      {
+        "src": "https://www.kmperkunas.lt/wp-content/uploads/2018/08/KM-Perkūnas-2009-VI-2018-900.jpg",
+        "caption": "KM „Perkūnas“ Neveronių ir V.Adamkaus gimnazijos komandos  (2018)"
+      },
+      {
+        "src": "https://www.kmperkunas.lt/wp-content/uploads/2018/08/KM-Perkūnas-2009-V-2018-900.jpg",
+        "caption": "KM „Perkūnas“-Neveronys (2018)"
+      }
+    ]
+  },
+  {
+    "slug": "km-perkunas-2010",
+    "name": "KM Perkūnas 2010",
+    "year": "2010 m.",
+    "league": "MKL Vaikų U14 / U15",
+    "leagueUrl": "https://mkl.lt",
+    "coach": "Julius Venckevičius",
+    "coachSlug": "julius-venckevicius",
+    "desc": "Kovinga ir energinga ekipa, aktyviai dalyvaujanti tarptautiniuose turnyruose bei MKL pirmenybėse.",
+    "photo": "https://www.kmperkunas.lt/wp-content/uploads/2019/11/Perkunas-2010-2023-Daugai-1-555x370.jpg",
+    "achievements": [
+      "2023 m. PERKŪNIUKŲ taurė 2010 m. grupė, I vieta",
+      "2023 m. MKL U13 B divizionas, Finalinis ketvertas",
+      "2022 m. MKL „Pirmasis iššūkis“ U12 dalyviai"
+    ],
+    "roster": [
+      {
+        "photo": "https://www.kmperkunas.lt/wp-content/uploads/2019/11/Bankauskas-Kristijonas-2019-150x200.jpg",
+        "name": "Kristijonas Bankauskas"
+      },
+      {
+        "photo": "https://www.kmperkunas.lt/wp-content/uploads/2019/11/Šetkus-Benas-2019-150x200.jpg",
+        "name": "Benas Šetkus"
+      },
+      {
+        "photo": "https://www.kmperkunas.lt/wp-content/uploads/2019/11/Ambrazevičius-Vėjas-2019-150x200.jpg",
+        "name": "Vėjas Ambrazevičius"
+      },
+      {
+        "photo": "https://www.kmperkunas.lt/wp-content/uploads/2019/11/Grenda-Gustas-2019-150x200.jpg",
+        "name": "Gustas Grenda"
+      },
+      {
+        "photo": "https://www.kmperkunas.lt/wp-content/uploads/2019/11/Jonynas-Ignas-Herkus-2019-150x200.jpg",
+        "name": "Ignas Herkus Jonynas"
+      },
+      {
+        "photo": "https://www.kmperkunas.lt/wp-content/uploads/2019/11/Juočepys-Klaidas-2019-150x200.jpg",
+        "name": "Klaidas Juočepys"
+      },
+      {
+        "photo": "https://www.kmperkunas.lt/wp-content/uploads/2019/11/Juška-Dominykas-2019-150x200.jpg",
+        "name": "Dominykas Juška"
+      },
+      {
+        "photo": "https://www.kmperkunas.lt/wp-content/uploads/2019/11/Kasatkinas-Hubertas-Mykolas-2019-150x200.jpg",
+        "name": "Hubertas Mykolas Kasatkinas"
+      },
+      {
+        "photo": "https://www.kmperkunas.lt/wp-content/uploads/2019/11/Lukoševičius-Gediminas-2019-150x200.jpg",
+        "name": "Gediminas Lukoševičius"
+      },
+      {
+        "photo": "https://www.kmperkunas.lt/wp-content/uploads/2019/11/Petravičius-Dominykas-2019-150x200.jpg",
+        "name": "Dominykas Petravičius"
+      },
+      {
+        "photo": "https://www.kmperkunas.lt/wp-content/uploads/2019/11/Šerpenskas-Vytautas-2019-150x200.jpg",
+        "name": "Vytautas Šerpenskas"
+      },
+      {
+        "photo": "https://www.kmperkunas.lt/wp-content/uploads/2019/11/Švykas-Andrius-2019-150x200.jpg",
+        "name": "Andrius Švykas"
+      },
+      {
+        "photo": "https://www.kmperkunas.lt/wp-content/uploads/2019/11/Švykas-Giedrius-2019-150x200.jpg",
+        "name": "Giedrius Švykas"
+      },
+      {
+        "photo": "https://www.kmperkunas.lt/wp-content/uploads/2016/09/Zvirblis-Vytautas-2021-300x300.png",
+        "name": "Vytautas Žvirblis"
+      }
+    ],
+    "gallery": [
+      {
+        "src": "https://www.kmperkunas.lt/wp-content/uploads/2019/11/Perkunas-2010-2023-Daugai-1.jpg",
+        "caption": "„Perkūnas“ 2010 (2023)"
+      },
+      {
+        "src": "https://www.kmperkunas.lt/wp-content/uploads/2019/11/KM-Perkunas-2010-2019-1200.jpg",
+        "caption": "KM „Perkūnas“ 2010 (2019)"
+      },
+      {
+        "src": "https://www.kmperkunas.lt/wp-content/uploads/2019/09/KM-Perkunas-2010-2019-900.jpg",
+        "caption": ""
+      }
+    ]
+  },
+  {
+    "slug": "km-perkunas-2011",
+    "name": "KM Perkūnas 2011",
+    "year": "2011 m.",
+    "league": "MKL Vaikų U13 / U14",
+    "leagueUrl": "https://mkl.lt",
+    "coach": "Lukas Šimkus",
+    "coachSlug": "lukas-simkus",
+    "desc": "Spartu žingsniu tobulėjanti jaunųjų krepšininkų karta, demonstruojanti kietą gynybą ir komandinę dvasią.",
+    "photo": "https://www.kmperkunas.lt/wp-content/uploads/2021/11/Perkunas-2011-2023-Daugai-555x370.jpg",
+    "achievements": [
+      "2023 m. MKL U12 „Pirmasis iššūkis“, atkrintamosios",
+      "2022 m. PERKŪNIUKŲ taurė 2011 m. grupė, I vieta",
+      "2022 m. Kauno krepšinio mokyklų taurė, II vieta"
+    ],
+    "roster": [
+      {
+        "name": "Matas Brazauskas",
+        "photo": "https://www.kmperkunas.lt/wp-content/uploads/2019/10/Gavienas-Dovydas-2019-2-180x240.jpg"
+      },
+      {
+        "name": "Domantas Kazlauskas",
+        "photo": "https://www.kmperkunas.lt/wp-content/uploads/2019/10/Gėrikas-Kipras-2019-2-180x240.jpg"
+      },
+      {
+        "name": "Emilis Žukauskas",
+        "photo": "https://www.kmperkunas.lt/wp-content/uploads/2019/10/Janušauskas-Lukas-2019-1-180x240.jpg"
+      },
+      {
+        "name": "Nojus Jankauskas",
+        "photo": "https://www.kmperkunas.lt/wp-content/uploads/2019/10/Kučinskas-Ignas-2019-2-180x240.jpg"
+      }
+    ],
+    "gallery": [
+      {
+        "src": "https://www.kmperkunas.lt/wp-content/uploads/2021/11/Perkunas-2011-2023-Daugai.jpg",
+        "caption": "„Perkūnas“ 2011 (2023)"
+      },
+      {
+        "src": "https://www.kmperkunas.lt/wp-content/uploads/2021/11/Perkunas-2011-2021-Daugai2.jpg",
+        "caption": "KM Perkūnas 2011 (2021, Daugai)"
+      },
+      {
+        "src": "https://www.kmperkunas.lt/wp-content/uploads/2021/11/KM-Perkunas-2011-2021.jpg",
+        "caption": "KM Perkūnas 2011 (2021, Daugai)"
+      }
+    ]
+  },
+  {
+    "slug": "km-perkunas-2011-ii",
+    "name": "KM Perkūnas 2011-2",
+    "year": "2011 m.",
+    "league": "Kauno moksleivių krepšinio lyga",
+    "leagueUrl": "https://kkml.lt",
+    "coach": "Lukas Šimkus",
+    "coachSlug": "lukas-simkus",
+    "desc": "Antroji 2011 m. laidos komanda, ugdanti žaidybinę patirtį ir meistriškumą.",
+    "photo": "https://www.kmperkunas.lt/wp-content/uploads/2021/11/Perkunas-2011-2023-Daugai-555x370.jpg",
+    "achievements": [
+      "2023 m. KKML „Vaikų taurė“, dalyviai",
+      "2022 m. Draugiškų turnyrų Kaune prizininkai"
+    ],
+    "roster": [
+      {
+        "name": "Titas Urbonas",
+        "photo": "https://www.kmperkunas.lt/wp-content/uploads/2019/10/Malichinas-Tomas-2019-3-180x240.jpg"
+      },
+      {
+        "name": "Lukas Petrauskas",
+        "photo": "https://www.kmperkunas.lt/wp-content/uploads/2019/10/Padvelskis-Gustautas-2019-1-180x240.jpg"
+      }
+    ],
+    "gallery": [
+      {
+        "src": "https://www.kmperkunas.lt/wp-content/uploads/2021/11/Perkunas-2011-2023-Daugai.jpg",
+        "caption": "„Perkūnas“ 2011 (2023)"
+      },
+      {
+        "src": "https://www.kmperkunas.lt/wp-content/uploads/2021/11/Perkunas-2011-2021-Daugai2.jpg",
+        "caption": "KM Perkūnas 2011 (2021, Daugai)"
+      },
+      {
+        "src": "https://www.kmperkunas.lt/wp-content/uploads/2021/11/KM-Perkunas-2011-2021.jpg",
+        "caption": "KM Perkūnas 2011 (2021, Daugai)"
+      }
+    ]
+  },
+  {
+    "slug": "km-perkunas-2012",
+    "name": "KM Perkūnas 2012",
+    "year": "2012 m.",
+    "league": "MKL „Pirmasis iššūkis“ U12",
+    "leagueUrl": "https://mkl.lt",
+    "coach": "Dovydas Nemeikša",
+    "coachSlug": "dovydas-nemeiksa",
+    "desc": "Jaunoji Perkūno pamaina, demonstruojanti puikų komandinį susižaidimą ir didžiulį norą tobulėti.",
+    "photo": "https://www.kmperkunas.lt/wp-content/uploads/2021/11/255340160_5304961849530543_6386127601115629031_n-555x369.jpg",
+    "achievements": [
+      "2023 m. PERKŪNIUKŲ taurė 2012 m. grupė, II vieta",
+      "2023 m. MKL U12 „Pirmasis iššūkis“, II etapas"
+    ],
+    "roster": [
+      {
+        "name": "Jokūbas Nemeikša",
+        "photo": "https://www.kmperkunas.lt/wp-content/uploads/2019/10/Staniulis-Matas-2019-2-180x240.jpg"
+      },
+      {
+        "name": "Adomas Kazlauskas",
+        "photo": "https://www.kmperkunas.lt/wp-content/uploads/2019/10/Šivickas-Otonas-2019-2-180x240.jpg"
+      },
+      {
+        "name": "Gabrielius Mockus",
+        "photo": "https://www.kmperkunas.lt/wp-content/uploads/2019/10/Švykas-Mantas-2019-2-180x240.jpg"
+      }
+    ],
+    "gallery": [
+      {
+        "src": "https://www.kmperkunas.lt/wp-content/uploads/2021/11/Perkunas-2012-2023-Daugai.jpg",
+        "caption": "„Perkūnas“ 2012 (2023)"
+      },
+      {
+        "src": "https://www.kmperkunas.lt/wp-content/uploads/2021/11/255340160_5304961849530543_6386127601115629031_n.jpg",
+        "caption": "KM „Perkūnas“ 2012 (2021)"
+      }
+    ]
+  },
+  {
+    "slug": "km-perkunas-2013",
+    "name": "KM Perkūnas 2013",
+    "year": "2013 m.",
+    "league": "Kauno moksleivių lyga U11",
+    "leagueUrl": "https://kkml.lt",
+    "coach": "Rėjus Pumputis",
+    "coachSlug": "rejus-pumputis",
+    "desc": "Greiti, motyvuoti ir krepšinį mylintys mažieji perkūniukai.",
+    "photo": "https://www.kmperkunas.lt/wp-content/uploads/2023/08/Perkunas-2013-2014-2023-Daugai2-555x370.jpg",
+    "achievements": [
+      "2023 m. PERKŪNIUKŲ taurė 2013 m. grupė, I vieta (Čempionai)",
+      "2023 m. Kauno krepšinio festivalis, nugalėtojai"
+    ],
+    "roster": [
+      {
+        "name": "Matas Navickas",
+        "photo": "https://www.kmperkunas.lt/wp-content/uploads/2019/10/Gavienas-Dovydas-2019-2-180x240.jpg"
+      },
+      {
+        "name": "Kipras Vaitkus",
+        "photo": "https://www.kmperkunas.lt/wp-content/uploads/2019/10/Gėrikas-Kipras-2019-2-180x240.jpg"
+      },
+      {
+        "name": "Lukas Balčiūnas",
+        "photo": "https://www.kmperkunas.lt/wp-content/uploads/2019/10/Janušauskas-Lukas-2019-1-180x240.jpg"
+      }
+    ],
+    "gallery": [
+      {
+        "src": "https://www.kmperkunas.lt/wp-content/uploads/2023/08/Perkunas-2013-2014-2023-Daugai2.jpg",
+        "caption": "„Perkunas 2013/2014 (2023)"
+      }
+    ]
+  },
+  {
+    "slug": "km-perkunas-2014",
+    "name": "KM Perkūnas 2014",
+    "year": "2014 m.",
+    "league": "Pradinukų krepšinio lygos",
+    "leagueUrl": "https://kkml.lt",
+    "coach": "Paulius Skiudulas",
+    "coachSlug": "paulius-skiudulas",
+    "desc": "Jaunieji talentai, žengiantys pirmuosius žingsnius varžybų aikštelėse.",
+    "photo": "https://www.kmperkunas.lt/wp-content/uploads/2023/08/Perkunas-2014-2023-Daugai-555x370.jpg",
+    "achievements": [
+      "2023 m. PERKŪNIUKŲ taurė 2014 m. grupė, I vieta",
+      "2023 m. Pradinukų lygos čempionai"
+    ],
+    "roster": [
+      {
+        "name": "Jonas Kazlauskas",
+        "photo": "https://www.kmperkunas.lt/wp-content/uploads/2019/10/Kučinskas-Ignas-2019-2-180x240.jpg"
+      },
+      {
+        "name": "Benas Sabonis",
+        "photo": "https://www.kmperkunas.lt/wp-content/uploads/2019/10/Malichinas-Tomas-2019-3-180x240.jpg"
+      }
+    ],
+    "gallery": [
+      {
+        "src": "https://www.kmperkunas.lt/wp-content/uploads/2023/08/Perkunas-2014-2023-Daugai.jpg",
+        "caption": "„Perkūnas“ 2014 (2023)"
+      }
+    ]
+  },
+  {
+    "slug": "km-perkunas-2015",
+    "name": "KM Perkūnas 2015",
+    "year": "2015 m.",
+    "league": "Mažųjų krepšinis (5–8 m.)",
+    "leagueUrl": "https://kkml.lt",
+    "coach": "Modestas Bižys / Matas Kuzminskas",
+    "coachSlug": "modestas-bizys",
+    "desc": "Mažiausieji mūsų mokyklos krepšininkai, besimokantys krepšinio pagrindų ir meilės sportui.",
+    "photo": "https://www.kmperkunas.lt/wp-content/uploads/2023/08/Perkunas-2015-2023-Daugai-555x370.jpg",
+    "achievements": [
+      "2023 m. Mažųjų krepšinio šventė Kaune, visi nugalėtojai",
+      "2023 m. „Perkūniukų“ krikštynos Dauguose"
+    ],
+    "roster": [
+      {
+        "name": "Lukas Žukauskas",
+        "photo": "https://www.kmperkunas.lt/wp-content/uploads/2019/10/Padvelskis-Gustautas-2019-1-180x240.jpg"
+      },
+      {
+        "name": "Nojus Vaitkevičius",
+        "photo": "https://www.kmperkunas.lt/wp-content/uploads/2019/10/Staniulis-Matas-2019-2-180x240.jpg"
+      }
+    ],
+    "gallery": [
+      {
+        "src": "https://www.kmperkunas.lt/wp-content/uploads/2023/08/Perkunas-2015-2023-Daugai.jpg",
+        "caption": "„Perkūnas“ 2015 (2023)"
+      }
+    ]
+  }
+]
