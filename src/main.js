@@ -946,12 +946,13 @@ function initFormsAndModals() {
       e.preventDefault();
       
       const formData = {
-        childName: document.getElementById('childName').value,
-        birthYear: document.getElementById('birthYear').value,
-        preferredGym: document.getElementById('preferredGym').value,
-        parentPhone: document.getElementById('parentPhone').value,
-        parentEmail: document.getElementById('parentEmail').value,
-        notes: document.getElementById('notes').value,
+        childName: document.getElementById('childName')?.value || '',
+        birthYear: document.getElementById('birthYear')?.value || '',
+        basketballExperience: document.getElementById('basketballExperience')?.value || '',
+        preferredGym: document.getElementById('preferredGym')?.value || '',
+        parentPhone: document.getElementById('parentPhone')?.value || '',
+        parentEmail: document.getElementById('parentEmail')?.value || '',
+        notes: document.getElementById('notes')?.value || '',
         date: new Date().toISOString()
       };
 
@@ -960,6 +961,18 @@ function initFormsAndModals() {
         list.push(formData);
         localStorage.setItem('km_registrations', JSON.stringify(list));
       } catch (err) {}
+
+      // Log structured registration in console for verification / testing
+      console.log('✅ KM Perkūnas gauta nauja registracija:', formData);
+
+      // Support configurable webhook if set
+      if (window.KM_PERKUNAS_WEBHOOK) {
+        fetch(window.KM_PERKUNAS_WEBHOOK, {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify(formData)
+        }).catch(err => console.warn('Form webhook submission error:', err));
+      }
 
       if (successModal) successModal.classList.add('open');
       regForm.reset();

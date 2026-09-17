@@ -4,7 +4,7 @@
   "slogan": "Prisijunk prie KM „Perkūnas“ – juk nori daug žaisti!",
   "founded": 2000,
   "studentsCount": "450+",
-  "gymsCount": "13",
+  "gymsCount": "15",
   "coachesCount": "10",
   "championships": "MKL Čempionai",
   "logo": "https://www.kmperkunas.lt/wp-content/uploads/2016/08/Liutas-logo-spalvotas2-be-ploto-height140.png",
@@ -23,6 +23,11 @@
     "email": "kmperkunas@gmail.com",
     "address": "V. Krėvės pr. 53-213, Kaunas",
     "hours": "I–V 10:00 – 18:00 val.",
+    "social": {
+      "facebook": "https://www.facebook.com/kmperkunas/",
+      "instagram": "https://www.instagram.com/kmperkunas/",
+      "youtube": "https://www.youtube.com/@kkmlkaunas"
+    },
     "admin": [
       {
         "role": "Direktorius",
@@ -60,8 +65,8 @@
       "desc": "Į mokyklą priimami visi norintys išmokti ar jau mokantys žaisti krepšinį vaikai nuo 5 iki 18 metų amžiaus, nepriklausomai nuo fizinių duomenų ar patirties."
     },
     {
-      "title": "Net 13 treniruočių centrų",
-      "desc": "Treniruotės vyksta patogiai pasiekiamose Kauno mokyklų salėse įvairiuose mikrorajonuose: Dainavoje, Šilainiuose, Centre, Žaliakalnyje, Aleksote, Kalniečiuose."
+      "title": "Net 15 treniruočių salių",
+      "desc": "Treniruotės vyksta patogiai pasiekiamose Kauno mokyklų salėse įvairiuose mikrorajonuose: Dainavoje, Šilainiuose, Centre, Žaliakalnyje, Aleksote, Kalniečiuose, Panemunėje, Petrašiūnuose, Vilijampolėje, Romainiuose bei Neveronyse."
     },
     {
       "title": "Daug turnyrų ir rungtynių",

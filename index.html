@@ -4,11 +4,11 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>KM Perkūnas | Prisijunk prie KM „Perkūnas“ – juk nori daug žaisti!</title>
-  <meta name="description" content="Kauno krepšinio mokykla „Perkūnas“. Treniruotės vaikams nuo 5 iki 18 m., 13 sporto salių Kaune, licencijuoti treneriai, MKL lygos varžybos.">
+  <meta name="description" content="Kauno krepšinio mokykla „Perkūnas“. Treniruotės vaikams nuo 5 iki 18 m., 15 sporto salių Kaune, licencijuoti treneriai, MKL lygos varžybos.">
   <meta name="keywords" content="KM Perkūnas, krepšinio mokykla, krepšinis Kaune, krepšinio treniruotės vaikams, MKL, Perkūniukų taurė">
   
   <meta property="og:title" content="KM Perkūnas | Kauno krepšinio mokykla">
-  <meta property="og:description" content="Prisijunk prie KM „Perkūnas“ – juk nori daug žaisti! 13 sporto salių Kaune, profesionalūs treneriai.">
+  <meta property="og:description" content="Prisijunk prie KM „Perkūnas“ – juk nori daug žaisti! 15 sporto salių Kaune, profesionalūs treneriai.">
   <meta property="og:image" content="https://www.kmperkunas.lt/wp-content/uploads/2026/08/Untitled-design-32-1024x576.jpg">
   <meta property="og:url" content="https://www.kmperkunas.lt/">
   <meta property="og:type" content="website">
@@ -302,7 +302,7 @@
             </div>
             <div class="stat-divider"></div>
             <div class="stat-col">
-              <span class="stat-value">13</span>
+              <span class="stat-value">15</span>
               <span class="stat-label">sporto salių Kaune</span>
             </div>
             <div class="stat-divider"></div>
@@ -553,9 +553,9 @@
           <!-- Quick Map Jump Banner in Priemimas -->
           <div class="priemimas-map-banner">
             <div class="map-banner-info">
-              <span class="map-banner-tag">📍 13 sporto salių Kaune</span>
+              <span class="map-banner-tag">📍 15 sporto salių Kaune</span>
               <h4>Nežinote, kuri sporto salė yra arčiausiai jūsų namų?</h4>
-              <p>Peržiūrėkite visas 13 KM „Perkūnas“ treniruočių bazių interaktyviame Kauno žemėlapyje su maršrutais.</p>
+              <p>Peržiūrėkite visas 15 KM „Perkūnas“ treniruočių bazių interaktyviame Kauno žemėlapyje su maršrutais.</p>
             </div>
             <a href="#sales" class="btn btn-primary btn-sm">Atidaryti salių žemėlapį →</a>
           </div>
@@ -585,22 +585,26 @@
             <a href="#home">Pagrindinis</a> <span>/</span> <strong>Sporto salės</strong>
           </div>
           <h1>Sporto salių žemėlapis ir treniruočių centrai</h1>
-          <p>13 šiuolaikiškų krepšinio bazių įvairiuose Kauno mikrorajonuose. Raskite artimiausią salę šalia jūsų namų.</p>
+          <p>15 šiuolaikiškų krepšinio bazių įvairiuose Kauno mikrorajonuose. Raskite artimiausią salę šalia jūsų namų.</p>
         </div>
       </div>
 
       <section class="section section-gyms">
         <div class="container">
           <!-- District Filter Tabs -->
-          <div class="gyms-filter-bar">
-            <button class="gym-district-pill active" data-district="all">Visos salės (13)</button>
+          <div class="gyms-filter-bar" id="gymsFilterBar">
+            <button class="gym-district-pill active" data-district="all">Visos salės (15)</button>
+            <button class="gym-district-pill" data-district="Dainava">Dainava (3)</button>
             <button class="gym-district-pill" data-district="Centras">Centras (2)</button>
-            <button class="gym-district-pill" data-district="Žaliakalnis">Žaliakalnis (2)</button>
-            <button class="gym-district-pill" data-district="Šilainiai">Šilainiai (3)</button>
-            <button class="gym-district-pill" data-district="Dainava">Dainava (2)</button>
-            <button class="gym-district-pill" data-district="Kalniečiai">Kalniečiai (2)</button>
+            <button class="gym-district-pill" data-district="Šilainiai">Šilainiai (2)</button>
+            <button class="gym-district-pill" data-district="Kalniečiai">Kalniečiai (1)</button>
+            <button class="gym-district-pill" data-district="Žaliakalnis">Žaliakalnis (1)</button>
             <button class="gym-district-pill" data-district="Aleksotas">Aleksotas (1)</button>
+            <button class="gym-district-pill" data-district="Panemunė">Panemunė (1)</button>
             <button class="gym-district-pill" data-district="Petrašiūnai">Petrašiūnai (1)</button>
+            <button class="gym-district-pill" data-district="Vilijampolė">Vilijampolė (1)</button>
+            <button class="gym-district-pill" data-district="Romainiai">Romainiai (1)</button>
+            <button class="gym-district-pill" data-district="Kauno r.">Kauno r. (1)</button>
           </div>
 
           <!-- Map and Gyms List Layout -->
@@ -610,7 +614,7 @@
               <div id="gymsMap" class="gyms-leaflet-map" role="region" aria-label="Kauno sporto salių interaktyvus žemėlapis"></div>
               <div class="map-overlay-badge">
                 <span class="badge-dot"></span>
-                <span>13 aktyvių salių Kaune</span>
+                <span>15 aktyvių salių Kaune ir rajone</span>
               </div>
             </div>
 
@@ -618,7 +622,7 @@
             <div class="gyms-directory-sidebar">
               <div class="gyms-sidebar-header">
                 <h3 class="gyms-sidebar-title">Kauno sporto salės</h3>
-                <span class="gyms-count-badge" id="gymsCountBadge">13 salių</span>
+                <span class="gyms-count-badge" id="gymsCountBadge">15 salių</span>
               </div>
               <div class="gyms-cards-list" id="gymsCardsList">
                 <!-- Dynamically populated from gyms.json -->
@@ -904,24 +908,47 @@
                       <option value="2013">2013 m. (U13)</option>
                       <option value="2014">2014 m. (U12)</option>
                       <option value="2015">2015 m. (U11)</option>
-                      <option value="2016-2019">2016–2019 m. (Pradinukai)</option>
+                      <option value="2016">2016 m. (U10)</option>
+                      <option value="2017">2017 m. (U9)</option>
+                      <option value="2018">2018 m. (U8)</option>
+                      <option value="2019">2019 m. (U7)</option>
+                      <option value="2020">2020 m. (U6)</option>
+                      <option value="2021">2021 m. (5 m. / Darželinukai)</option>
                     </select>
                   </div>
 
                   <div class="form-field">
-                    <label for="preferredGym">Pageidaujama salė *</label>
-                    <select id="preferredGym" name="preferredGym" required>
-                      <option value="">Pasirinkite salę...</option>
-                      <option value="Saulės gimnazija">„Saulės“ gimnazija (Savanorių pr.)</option>
-                      <option value="V. Adamkaus gimnazija">V. Adamkaus gimnazija (Aleksotas)</option>
-                      <option value="B. Brazdžionio mokykla">B. Brazdžionio mokykla (Dainava)</option>
-                      <option value="J. Basanavičiaus gimnazija">J. Basanavičiaus gimnazija (Šilainiai)</option>
-                      <option value="A. Smetonos gimnazija">A. Smetonos gimnazija (Kalniečiai)</option>
-                      <option value="A. Puškino gimnazija">A. Puškino gimnazija (Centras)</option>
-                      <option value="P. Mašioto mokykla">P. Mašioto mokykla (Šilainiai)</option>
-                      <option value="Kita / Bet kuri">Bet kuri patogi salė</option>
+                    <label for="basketballExperience">Krepšinio patirtis</label>
+                    <select id="basketballExperience" name="basketballExperience">
+                      <option value="Niekada nelankė / Pradedantysis">Niekada nelankė (pradedantysis)</option>
+                      <option value="Lankė darželyje ar mokykloje">Lankė būrelį darželyje / mokykloje</option>
+                      <option value="Lankė 1–2 metus kitoje mokykloje">Lankė 1–2 m. kitoje krepšinio mokykloje</option>
+                      <option value="Pažengęs (3+ metai)">Pažengęs (lanko 3+ metus)</option>
                     </select>
                   </div>
+                </div>
+
+                <div class="form-field">
+                  <label for="preferredGym">Pageidaujama salė *</label>
+                  <select id="preferredGym" name="preferredGym" required>
+                    <option value="">Pasirinkite salę...</option>
+                    <option value="Prano Mašioto pradinė mokykla">Prano Mašioto pradinė mokykla (Rasytės g. 1, Šilainiai)</option>
+                    <option value="Bernardo Brazdžionio mokykla">Bernardo Brazdžionio mokykla (Partizanų g. 22, Dainava)</option>
+                    <option value="Kauno tarptautinė gimnazija (Centras)">Kauno tarptautinė gimnazija (Vytauto pr. 50, Centras)</option>
+                    <option value="Petrašiūnų progimnazija">Petrašiūnų progimnazija (M. Gimbutienės g. 9, Petrašiūnai)</option>
+                    <option value="KTU inžinerijos licėjus (Kalniečiai)">KTU inžinerijos licėjus (Geležinio vilko g. 28, Kalniečiai)</option>
+                    <option value="Neveronių gimnazija">Neveronių gimnazija (Keramikų g. 98, Neveronys)</option>
+                    <option value="VDU „Atžalyno“ progimnazija">VDU „Atžalyno“ progimnazija (Partizanų g. 46, Dainava)</option>
+                    <option value="Žaliakalnio progimnazija">Žaliakalnio progimnazija (Širvintų g. 15, Žaliakalnis)</option>
+                    <option value="KTU inžinerijos licėjus (Panemunė)">KTU inžinerijos licėjus, Panemunė (Vaidoto g. 11, Panemunė)</option>
+                    <option value="Jono Basanavičiaus gimnazija">Jono Basanavičiaus gimnazija (Šarkuvos g. 28, Šilainiai)</option>
+                    <option value="Kauno tarptautinė gimnazija (Dainava)">Kauno tarptautinė gimnazija (V. Krėvės pr. 50, Dainava)</option>
+                    <option value="„Saulės“ gimnazija">„Saulės“ gimnazija (Savanorių pr. 46, Centras)</option>
+                    <option value="Veršvų gimnazija">Veršvų gimnazija (Mūšos g. 6, Vilijampolė)</option>
+                    <option value="Valdo Adamkaus gimnazija">Valdo Adamkaus gimnazija (Bitininkų g. 31, Aleksotas)</option>
+                    <option value="Romainių pradinė mokykla">Romainių pradinė mokykla (Romainių g. 28, Romainiai)</option>
+                    <option value="Bet kuri patogi / artimiausia salė">Bet kuri patogi / artimiausia salė</option>
+                  </select>
                 </div>
 
                 <div class="form-grid-2">
@@ -937,14 +964,18 @@
                 </div>
 
                 <div class="form-field">
-                  <label for="notes">Pastabos (ar vaikas anksčiau lankė krepšinį?)</label>
-                  <textarea id="notes" name="notes" rows="3" placeholder="Klausimai arba pageidavimai..."></textarea>
+                  <label for="notes">Pastabos ir pageidavimai</label>
+                  <textarea id="notes" name="notes" rows="2" placeholder="Papildomi klausimai arba pageidaujami treniruočių laikai..."></textarea>
                 </div>
 
                 <button type="submit" class="btn btn-primary btn-block">
-                  <span>Pateikti registraciją</span>
+                  <span>Pateikti registraciją į nemokamą treniruotę</span>
                   <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
                 </button>
+
+                <p style="text-align: center; margin-top: 12px; font-size: 13px; color: var(--text-muted, #64748b);">
+                  Pageidaujate pildyti išorinę formą? <a href="https://docs.google.com/forms/d/115S-ivQrWrt8JJfO65X-oSWPYUbevdiRr8C9Y5t06jc/viewform" target="_blank" rel="noopener" style="color: var(--color-primary, #e65100); text-decoration: underline;">KM „Perkūnas“ Google forma ↗</a>
+                </p>
               </form>
             </div>
           </div>
@@ -1040,9 +1071,9 @@
       <div class="footer-social-col">
         <h5>Sekite mus</h5>
         <div class="footer-social-links">
-          <a href="https://www.facebook.com" target="_blank" rel="noopener">Facebook</a>
-          <a href="https://www.instagram.com" target="_blank" rel="noopener">Instagram</a>
-          <a href="https://www.youtube.com" target="_blank" rel="noopener">YouTube</a>
+          <a href="https://www.facebook.com/kmperkunas/" target="_blank" rel="noopener">Facebook</a>
+          <a href="https://www.instagram.com/kmperkunas/" target="_blank" rel="noopener">Instagram</a>
+          <a href="https://www.youtube.com/@kkmlkaunas" target="_blank" rel="noopener">YouTube</a>
         </div>
         <div class="footer-partner-badge">
           <span>Oficialus partneris</span>
